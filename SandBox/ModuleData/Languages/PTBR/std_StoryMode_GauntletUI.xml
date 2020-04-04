@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="75nwCTEn" text="A tela do clã está desativada durante o tutorial." />
+    <string id="lBQXP6Wj" text="Começar o jogo" />
+    <string id="Rvr1bcu8" text="Próximo" />
+    <string id="UjERCi2F" text="Este recurso está desativado." />
+  </strings>
+</base>

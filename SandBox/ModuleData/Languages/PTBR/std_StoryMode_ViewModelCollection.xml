@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="8eYtra7T" text="Determine a dificuldade do jogo" />
+    <string id="fz2kQjFS" text="Escolha a cultura do seu personagem:" />
+    <string id="K6GYskvJ" text="Cultura:" />
+    <string id="kek1czyb" text="Você se prepara para partir com seu irmão em uma missão de vingança e resgate. Aqui está o seu personagem. Clique em Concluir, se estiver pronto, ou volte para fazer alterações." />
+    <string id="MaHMOzL2" text="Cultura do Personagem" />
+    <string id="mHVmrwRQ" text="Digite seu nome" />
+    <string id="PUjDWe5j" text="Cultura" />
+    <string id="raD9MK3O" text="Dificuldade" />
+    <string id="txjiykNa" text="Revisão" />
+  </strings>
+</base>

@@ -1,0 +1,646 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="09z8Q08f" text="Seus pais eram pequenos agricultores com terra suficiente para se alimentar e obter um pequeno lucro. Pessoas como eles eram os pilares da economia rural imperial." />
+    <string id="0IeByuam" text="It was a victory, of the kind that is almost as bad as a defeat." />
+    <string id="0LIb10KB" text="{EDUCATION_INTRO}" />
+    <string id="0P4HqZiB" text="Is that true?[sp:/Sounds/VO/mainquest/mntemp_q01_02.ogg]" />
+    <string id="0pilmavQ" text="How can I create my own kingdom?" />
+    <string id="0sK2A7ox" text="People stay they're still about. We're sleeping in the woods, not going back until they're gone. You hunt them down and kill every one, you hear! Heaven protect you! Heaven guide your swords!" />
+    <string id="0Suu1Q9q" text="Seu pai era oficial de justiça de um magnata feudal local. Ele cuidava das propriedades de seu senhorio, resolvia disputas na vila, e ajudou no treinamento de novos recrutas. Ele serviu na cavalaria do senhor feudal, lutando como um cavaleiro." />
+    <string id="0wQlpbtL" text="In order for the Empire to go into its final decline, there should be fewer than {NUMBER} imperial-owned settlements. If this happens, another kingdom can become the dominant power in Calradia." />
+    <string id="0yxEvgGf" text="It was a disaster for him - he died in it - but the victors didn't fare much better." />
+    <string id="1CLNFbzR" text="Good. Then I will tell you what I know. I heard about one other piece." />
+    <string id="1EkEElZd" text="Urban troops spend much of their time guarding the town walls. Most of their training was in missile." />
+    <string id="1IEroJKs" text="Nem todo mundo marcha para a guerra, e nem todo mundo que participa de uma campanha vê ação. Você fez as duas coisas e também derrotou um guerreiro inimigo em um combate direto, observado por todos os seus camaradas." />
+    <string id="1LrHV647" text="Conspiracy Strength" />
+    <string id="1r0tDsrR" text="Attack!" />
+    <string id="1RaUauBS" text="Você terminou o treinamento com sucesso." />
+    <string id="1SUTcF0J" text="Os líderes das gangues que vigiavam os becos das cidades calradianas sempre precisavam de jovens para transmitir mensagens e apoiá-los em guerras territoriais, enquanto os filhos e filhas de comerciantes em busca de emoção às vezes também faziam compania." />
+    <string id="1v6aYpDx" text="You must choose, but choose wisely. I have no preference. None will bring back the Palaic people, but the final victory of any one of those would be suitable vengeance." />
+    <string id="1xqmoDvS" text="We have finished our preparations. Let’s talk to the headman again. He had said he may have a task for us. We could use his friendship." />
+    <string id="1zXrlaav" text="Sueus familiares eram comerciantes respeitados em uma cidade oásis. Eles correram caravanas pelo deserto, e eram especialistas nos pontos mais delicados da negociação através dos territórios das tribos do deserto." />
+    <string id="2DZOCsy5" text="We waited for them, like wolves in the wood, as their vanguard came up the winding road. They came without archers to protect them. Caladog blew his horn, and our bowmen fired on them from all sides. They turned their shields one way, and were hit from the other. A glorious thing to watch..." />
+    <string id="2h7IlBmv" text="Not yet, I'm working on it..." />
+    <string id="2NHnVb9b" text="So Nimr went, and fought, and won glory, but also got a number of men killed, especially the those of the Bani Qild. And he became boastful, and arrogant. And then… Well, that is the beginning of the great feud between Sarranis and Qildis, but the rest of the story I should perhaps leave for someone else." />
+    <string id="2SDWhGmQ" text="Sua família está entre os pobres migrantes que vivem nas favelas que crescem fora dos muros das cidades a beira dos rios, ganhando o que pudessem com uma variedade de trabalhos estranhos. Às vezes, eles prestavam serviços para uma das muitas quadrilhas criminosas da região." />
+    <string id="2TptWc4m" text="Retentores de um barão" />
+    <string id="2XhW49TX" text="you drove them off with arrows." />
+    <string id="2YYRyrOO" text="Leave..." />
+    <string id="3BjIb3CG" text="Or perhaps it was just Raganvad. He was stewing in his anger when up comes the Battanian king, Caladog. The Battanians had taken their time stripping the bodies of the imperial vanguard and the Sturgians were angry at them, so Raganvad called him a coward. Caladog sneers at him and walks off." />
+    <string id="3deb2lMd" text="To restore the Empire you should capture 2/3 of settlements with imperial culture." />
+    <string id="3G64Ej64" text="A buyer? I can help you do far more than that." />
+    <string id="3Io5vmOk" text="War Progress with the {FACTION}" />
+    <string id="3nCxVXvo" text="Very well. The Dragon Banner in your hands proclaims you the avenger of the Empire's crimes and its successor." />
+    <string id="3sRdGQou" text="Leave" />
+    <string id="3T0Rd1Zt" text="Very well. I'll have informants spread the news all around the Empire that a new, legitimate claimant has emerged. Complete with some omens to show the divine favor that follow you." />
+    <string id="40oa2Nav" text="The banner of Calradios is part of a legend. They say it was carried by Calradios the Great as he led his small band of exiles into this land to make a new home for themselves. They say that, so long as it is carried by a true son of Calradios, he shall never be defeated in battle. Or a daughter, I imagine, although that has never come up.[sp:/Sounds/VO/mainquest/mntemp_q01_04.ogg]" />
+    <string id="4Baa38ra" text="We won, barely, with the help of the imperials, but the Khergits were mauled. Since then, the Khergits have been rather weak - and you know what happens to the weak. Still, no one told them to put all their eggs in one basket like that." />
+    <string id="4d5SP6B6" text="{MENTOR.LINK} suggested that you should support an anti-imperial kingdom by offering them the Dragon Banner." />
+    <string id="4f5xwzX0" text="Quando sua comunidade precisava organizar um grupo para perseguir ladrões de cavalos, você foi a escolha óbvia. Você caçou os atacantes, cercou-os e forçou sua rendição, e recuperou toda a propriedade roubada." />
+    <string id="4IS4Lou7" text="I ran too. And any man who tells you he wouldn’t, in those circumstances, is a liar. When I was sitting in the cold woods later that night, hiding with other fugitives, listening to the barbarians whoop and holler as they chopped off heads as trophies - I promise them that no Calradian soldier should again be led into battle by an emperor who knows so little of war." />
+    <string id="4Oc6MEvR" text="Ah… For any son of Battania, there will be no prouder moment in his life than that day. Any true son of Battania, anyway." />
+    <string id="4olAbDTq" text="It will be a powerful tool in our hands. People will believe that the Heavens have transferred dominion over Calradia from the Empire to us." />
+    <string id="4OUnPjZc" text="Indeed. You’ll have to find a way to do that. Maybe this bronze thing can help." />
+    <string id="4SnDe0rA" text="The clans of the {FACTION} have defected to surrounding kingdoms as their leader has given up all hopes of restoring the Empire." />
+    <string id="4vsPD3ec" text="{?PLAYER.GENDER}Irmã{?}Irmão{\?}... Já se passaram três dias e agora rastreamos aqueles bastardos. Eu acho que estamos chegando perto. Precisamos pensar no que acontece quando os pegarmos. Como vamos resgatar {PLAYER_LITTLE_BROTHER} e {PLAYER_LITTLE_SISTER}? Estamos prontos para uma luta?" />
+    <string id="4vsvniPd" text="I think we are on the right path now. You are the better rider so you should take the lead." />
+    <string id="4WYY0X59" text="Antes de partir para uma vida de aventura, sua maior conquista foi ..." />
+    <string id="4WZ9zJbF" text="I do not know where the other pieces are, you may need to keep searching for them." />
+    <string id="5D5lOHSL" text="When you have recovered all pieces, return to me and I’ll help you put them into use.[sp:/Sounds/VO/mainquest/mntemp_q01_11.ogg]" />
+    <string id="5g9ZFGrN" text="Você está em um campo de treinamento. Você pode aprender o básico do combate aqui." />
+    <string id="5HXS8HEY" text="Sua força" />
+    <string id="5j6qvGAF" text="Excellent work! When you unfurl this banner and men see it what they thought was lost, it will make a powerful impression." />
+    <string id="5JTEvvaO" text="{EXP_VALUE} Skill Level and {FOCUS_VALUE} Focus Point to {SKILL_ONE} and {SKILL_TWO}\n{ATTR_VALUE} attribute point to {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
+    <string id="5K4wvz3w" text="Find and meet {HERO.LINK} to learn more about Neretzes's Banner. He is currently in {SETTLEMENT}." />
+    <string id="5kbeAC7k" text="In wartorn Calradia, especially in frontier or tribal areas, some women as well as men learn to fight from an early age. You..." />
+    <string id="5LJTeOBT" text="I was with a caravan and they just came out of the brush. We were surrounded and outnumbered, so we gave up. I figured they'd keep us alive, if just for the ransom. But then they started flogging us along at top speed, without any water, and I was just about ready to drop." />
+    <string id="5Mw4trfs" text="Depois de fazer os preparativos, venha falar comigo novamente. Eu posso ter uma tarefa para você, se você estiver indo atrás dos invasores." />
+    <string id="5P0KqBAw" text="Sua família cultivou o solo em um dos oásis do Nahasa e cuidou dos pomares que produziam as famosas tâmaras do deserto. Seu pai era membro do principal grupo de guerreiros de sua tribo, lutando sob a bandeira do Emir." />
+    <string id="5qhaDtef" text="No. Let me rethink this." />
+    <string id="5QiuMoe6" text="I believe I have a piece of the Dragon Banner of Calradia." />
+    <string id="5QSGoRFj" text="Sua família cultivou um dos pequenos trechos de terra arável nas estepes por gerações. Quando os Khuzaitas chegaram, eles deixaram de pagar impostos ao imperador e de fornecer recrutas para seu exército, ao invés disso serviram ao Khan." />
+    <string id="5soUEFEJ" text="{TACTEOS.NAME} said it could be worth a fortune to the right person, if you manage not to get killed. If he’s telling the truth you must be careful. Never reveal that you have it but try to understand its value and how it can be sold." />
+    <string id="5UHbg6D0" text="So. What brings you to me?[sp:/Sounds/VO/mainquest/mntemp_q01_01.ogg]" />
+    <string id="63TAYbkx" text="As tropas urbanas passam grande parte do tempo vigiando as muralhas da cidade. A maior parte do treinamento foi em armas de longa distância, muito úteis durante cercos." />
+    <string id="64rWqBLN" text="Você evitou o serviço com uma das principais forças dos exércitos de seu reino, mas seguiu no trem - com as esposas, amantes e servos das tropas, e aqueles que ganham a vida cuidando, entretendo ou enganando os soldados." />
+    <string id="651FhzdR" text="Comerciantes urbanos" />
+    <string id="6aDiS9eP" text="I am {CONVERSATION_HERO.FIRSTNAME}. You probably already know that, though. Once I wielded great power, but now... Anyway, I am most curious what you might want with me.[rb:trivial]" />
+    <string id="6bUSbsKC" text="Seu pai trabalhou para um fitiwi, um dos homens fortes que mantêm a ordem nos bairros mais pobres das cidades oásis. Ele resolveu disputas por terras, dados e insultos, impondo sua autoridade aos funcionários tradicionais dos fitiwi." />
+    <string id="6Dd3Pa07" text="You managed to thwart the conspiracy." />
+    <string id="6iytd81P" text="You are defeated by the bandits in the hideout but you managed to escape. You need to wait a while before attacking again." />
+    <string id="6LFj919J" text="Você ajudou a cavar poços, reformar casas e consertar arados quebrados. Você aprendeu sobre os conceitos básicos de construção, bem como o que é necessário para manter uma comunidade agrícola próspera." />
+    <string id="6LQUuQhV" text="Thank you for your precious help." />
+    <string id="6qgXAcZB" text="Neretzes, when he heard we were hesitating, sent us a message calling us cowards and traitors. And you say that to a Vlandian noble at your peril. Neretzes should have known what he was doing. We joined the Sturgians." />
+    <string id="6UIa4784" text="Can you tell me anything about the battle of Pendraic?" />
+    <string id="6vCHovVH" text="you subdued a raider." />
+    <string id="72pbZgQL" text="{CLAN_NAME}" />
+    <string id="77TavbOY" text="Você concluiu todos os tutoriais. Você sempre pode voltar para melhorar sua pontuação." />
+    <string id="7AYJ3SjK" text="Your family arranged for you to accompany a chieftain of your people. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle." />
+    <string id="7cHsIMLP" text="You could never have bought the equipment on your own but you were a good enough rider so that the local lord lent you a horse and equipment. You joined the armored cavalry, training with the lance." />
+    <string id="7eWmU2mF" text="Habitantes da floresta" />
+    <string id="7FWF01bW" text="Refugees" />
+    <string id="7Hv984Sf" text="Em docas e canteiros de obras." />
+    <string id="7jBroUUQ" text="Sua família possuía pouca terra e ganhava a vida com a floresta, caçando. Eles ensinaram desde cedo que habilidades como encontrar trilhas de caça e matar um animal com um tiro poderiam fazer a diferença entre comer e morrer de fome." />
+    <string id="7O8IwMgU" text="Oh, you'll need my help all right, if you want to get them back - alive, that is. See, my boys have some pretty specific instructions about what to do if there's a rescue attempt..." />
+    <string id="7ULaG8aT" text="Then you can come back when you made up your mind up." />
+    <string id="7VFLb3Qj" text="Você chegou na vila." />
+    <string id="7wmkPNbI" text="Defenda-se pela direita." />
+    <string id="80NOk1Ee" text="You could not unify the Empire." />
+    <string id="888lmJqs" text="Todos os reinos de Calradia reconhecem o valor de boas cavalarias leves e arqueiros montados, e certamente recrutam pessoas com as habilidades necessárias para cumprir esses deveres. Você era um cavaleiro bom o suficiente para que seus vizinhos se juntassem para comprar um pequeno pônei e um bom arco para você." />
+    <string id="8a6dnLd2" text="Com as gangues do beco" />
+    <string id="8bwpVpgy" text="Você derrotou um inimigo em batalha" />
+    <string id="8GCW5IRO" text="I was trying to find out more about it, but, as I say, I've had all my urge for travelling flogged out of me. Right now I don't think I'd venture more than 20 paces from a well as long as I live." />
+    <string id="8OIwHZF1" text="Hideout" />
+    <string id="8QX1QHAJ" text="Ataque pela esquerda." />
+    <string id="8Yiwt1z6" text="Infância" />
+    <string id="9aoQYpZs" text="O clã de sua família nunca prometeu lealdade ao Khan e nunca se estabeleceu, preferindo viver nas estepes profundas longe de sua autoridade. Eles continuam sendo alguns dos melhores rastreadores e olheiros das pastagens, como a capacidade de detectar um inimigo que se aproxima e se move rapidamente geralmente é tudo o que protege seus rebanhos das predações de seus vizinhos." />
+    <string id="9aYCfBVz" text="The city was in a state of panic after hearing rumors of what happened. Arenicos kept things from descending into chaos. When it came time for the Senate to choose the next Emperor, there was no question that it should be him. I loved him before as a man, but that day learned to love him as something more: what a gift he was to the people of Calradia!" />
+    <string id="9E6faNBg" text="I will need to embroider a proper legend about you. Divine omens at your birth, that kind of thing. For now, we can call you 'Bannerlord,' who brings down the wrath of Heaven on the impudent barbarians." />
+    <string id="9kGnzjrU" text="Timer Started." />
+    <string id="9ks4u5cH" text="Você foi enviado pelo curandeiro da vila para as colinas para procurar plantas medicinais úteis. Você aprendeu quais ervas curavam feridas ou provocavam febre e como encontrá-las." />
+    <string id="9sAGLK6R" text="Yes. I was tasked by Derthert with command of the crossbowmen." />
+    <string id="9tpTkKdY" text="Tell me which path you choose when you've made progress." />
+    <string id="9VxUSDQ7" text="My name's Tacteos. I'm a doctor by trade. I was on, well, a bit of a quest, but now I'm thinking I'm not really made for this kind of thing." />
+    <string id="9xaEPyNV" text="{RADAGOS.NAME}'s Hideout" />
+    <string id="9XnFlRR0" text="A interação com essa pessoa está desativada durante o estágio do tutorial." />
+    <string id="a0JxUMgo" text="What happened? Did you find the piece of the banner?" />
+    <string id="a0ZKBj6P" text="Be an independent clan" />
+    <string id="a4W7Gzka" text="Yes. Time is of the essence. (Skip tutorial)" />
+    <string id="a8arFSra" text="Treinou com a infantaria" />
+    <string id="A9fChKmz" text="The Empire was an old bear. Well-fed, slow-moving. It wanted to keep what it had. The Sturgians were, and are, hungry wolves. Like us. Sometimes wolves hunt in packs, and sometimes they don’t. Sometimes one wolf wants the lion to kill his rival." />
+    <string id="abCqEn6B" text="As for our glorious history, let me tell you - any one of these petty kings and khans and sultans could probably get lucky and conquer Calradia and do as good a job ruling it as we did. But the point is - we already did it. Our greatest crimes are in the past. Let us not undo what has already been done." />
+    <string id="aClquusd" text="Troop Count" />
+    <string id="ACyYhA2s" text="Locate and Rescue Traveller" />
+    <string id="AeBzTj6w" text="Curandeiros" />
+    <string id="aEke8dSb" text="Vadios urbanos" />
+    <string id="afH90aNs" text="Armados com lança e escudo, recrutados de vilas de pequenos agricultores, sempre foram a espinha dorsal da maioria dos exércitos de Calradia." />
+    <string id="AGIPUYvy" text="We had our shields but you can only point them in one direction at once. So we started to drop, one by one, until the Battanian falxmen came screaming out of the trees. Ordinarily they’d be very vulnerable to archers, but, well, old Neretzes hadn’t thought to send any along with us. So they came upon us, chopping and slashing, and we fought until we broke." />
+    <string id="aGX3L8mV" text="We heard that the Empire was making war on the Sturgians, or maybe it was the other way around. I thought that we had no stake in this quarrel but Nimr, a fiery young hero from the Bani Sarran, asked me for permission to take some young warriors, eager for glory." />
+    <string id="AHDQffXv" text="Have you assembled the banner?" />
+    <string id="AhWyBEhd" text="He was one the emperor’s trusted commanders. He could not stop Neretzes from marching to defeat, but he managed to salvage something from the disaster. When the Sturgians came over our barricades, he managed to lead a group of Neretzes’ guardsmen out the back." />
+    <string id="ajBBFq1D" text="Aii... Those devils. They raided our village. Took whoever they could catch. Slavers, I'll bet." />
+    <string id="AmBEgOyq" text="I see..." />
+    <string id="aMBoh7gL" text="They turned and twisted as our arrows rained down upon them, like fish going frantic in a pond as you draw the net tighter. Then, when they were greatly discomfited, we took up our falxes and swords and reaped the harvest. Oh, there was some unpleasantness later with the Sturgians, about the spoils of war, but what a grand old day it was!" />
+    <string id="aTncHUfL" text="Ficou de guarda com as guarnições" />
+    <string id="atUTLABh" text="You have chosen to support the {KINGDOM} by presenting them the Dragon Banner, taking the advice of {MENTOR.LINK}." />
+    <string id="aVzcyhhy" text="Seu pai era um bardo, passando de salões em salões, ganhando a vida cantando louvores a alguém. Exaltando aristocrata Battaniana e zombando de seus inimigos, depois indo ao salão do inimigo e fazendo o inverso. Você aprendeu com ele que uma língua inteligente poderia poupá-lo de uma vida laboriosa nos campos, se você mantivesse sua inteligência a seu respeito." />
+    <string id="awgBkdXx" text="You should go back to the village menu and make your preparations to go after the raiders, then find out about the task that the headman has for you." />
+    <string id="AxKDQJ4G" text="You told {MENTOR.LINK} that you will create your own kingdom to defeat the Empire. {?MENTOR.GENDER}She{?}He{\?} expects you after the requirements are fulfilled." />
+    <string id="Ay0G3f7I" text="Your family arranged for you to be part of the staff of an imperial strategos. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle." />
+    <string id="ay1gPPsP" text="Find another piece of the banner for Arzagos" />
+    <string id="aYozMy3Z" text="We lost because the Vlandians broke their oaths, and fought us when they should have fought with us. I was given command of the cataphracts, and we easily crushed their crossbowmen. Their knights gave us more trouble. Meanwhile, the Sturgian infantry came down and attacked our main force. That’s where my father fell. " />
+    <string id="aZxHIra4" text="Renown" />
+    <string id="b4lDDcli" text="Família" />
+    <string id="b6hQWKHe" text="Grow your party to {PARTY_SIZE} men" />
+    <string id="b7Z1OBas" text="Então, você acha que vamos nos encontrar com os invasores em breve?" />
+    <string id="BCU6RezA" text="Ferreiros" />
+    <string id="bdbZLJf3" text="Neretzes had an obligation to avenge the Battanian attacks on our land. He marched out, with all the forces he could gather. The Vlandians betrayed us, but that’s what you expect from honorless barbarians. Fortune favored the enemy. What matters is that we did what honor required." />
+    <string id="BdYaRvhm" text="I don't know who you are, but I'm in your debt. These brigands would've marched us to our deaths." />
+    <string id="bESRdcRo" text="Rebuild Your Clan" />
+    <string id="bhdkegZ4" text="Todas as cidades tinham sua parcela de projetos que constantemente precisavam de mão de obra qualificada e não qualificada. Você aprendeu como as talhas e os andaimes eram construídos, como as tábuas e pedras eram cortadas e ajustadas, e outras habilidades." />
+    <string id="bhE2i6OU" text="served as a baron's groom" />
+    <string id="bhQ6Jbom" text="You come across a chest with an old piece of bronze in it. It's so battered and corroded that it could have been anything from a cup to a crown. This must be the chest {TACTEOS.NAME} mentioned to you, that had something to do with 'Neretzes's Folly'." />
+    <string id="bjVMtW3W" text="Sua família era comerciante que morava em um dos grandes portos fluviais de Sturgia, organizando o transporte dos subsídios de peles, mel e outros bens do norte para terras distantes." />
+    <string id="bKfi6ta6" text="You must gather a considerable amount of men." />
+    <string id="bkZFbCRx" text="We're looking for two children captured by the raiders. Can you tell us anything?" />
+    <string id="BleybhsD" text="Imperial cataphracts showed up, armored head to foot and their horses too, so they just ignored our shooting and tore right through us. I was swept away in the retreat and saw no more of the battle. King Derthert had a good enough plan but the barons - Ingalther, Aldric, that lot - ignored him, as they always do." />
+    <string id="BLZ4mdhb" text="Seus pais eram pequenos agricultores com terra suficiente para se alimentar e obter um pequeno lucro. Pessoas como eles eram os pilares da economia do reino." />
+    <string id="bmitHhDt" text="Our dear old beloved King Aeril, a wonderful man but with a heart perhaps just a might too tender, did not wish for us to go off to war. But then he disappeared and I, his son-in-law, ascended to the kingship. The clans cried out for war! They had a hundred years of crimes against them to avenge. I, a father to my people, gave them what they wanted." />
+    <string id="bNcGO33Q" text="Achamos que eles foram para o norte. Acho que há algumas pessoas por aqui que se juntarão a você para ir atrás deles, se você pagar pelo equipamento deles." />
+    <string id="bNqLQKQS" text="You are out of food. There is a village called {VILLAGE_NAME} north of here where you can buy provisions and find some help." />
+    <string id="Bo66bfTh" text="Own {?IS_IMPERIAL}an Imperial Settlement{?}a Settlement{\?} " />
+    <string id="bSDt8FN5" text="Estou pronto, vamos lá!" />
+    <string id="BstbQV5Z" text="It was a tragedy that gnawed at the roots of all the great families of Calradia, even ours, so far away from the battle." />
+    <string id="btAV7mmq" text="You are defeated by the raiders in the hideout but you managed to escape. You need to wait a while before attacking again." />
+    <string id="bTKiN0hr" text="Trabalhou na ferraria da vila" />
+    <string id="btsMpRcA" text="Sua família possuía uma forja em uma cidade. Seu pai desempenhou um papel ativo, embora pequeno, no conselho da cidade, e também serviu na milícia." />
+    <string id="BTY2aZCt" text="Entre em uma área de treinamento." />
+    <string id="bWlmGDf3" text="Quando uma tempestade repentina fez com que a corrente local subisse repentinamente, seus vizinhos precisavam de liderança e de raciocínio rápido. Você forneceu, instruindo-os a construir diques para salvar suas casas." />
+    <string id="bXAg5w19" text="Recrutas mais jovens, ou de porte mais baixo, ou pobres demais para comprar escudos e armaduras tendem a se juntar aos escaramuçadores. Lutando com arco e dardo, eles tentam ficar fora do alcance das principais forças inimigas." />
+    <string id="bXKPO8lX" text="Stop Conspiracy" />
+    <string id="bXYFXLgg" text="Increase your denars by 1000" />
+    <string id="c5dMlrMk" text="May the barbarians tremble in fear! May the false treacherous usurpers be cast down! Including the ones who are good friends of mine." />
+    <string id="c6pDNXbb" text="You can create your own kingdom or support an existing one..." />
+    <string id="cbF9jdQo" text="Seus pais não lhe deram muito dinheiro, mas deixaram o suficiente para você comprar um terreno não utilizado nos limites da vila. Você limpou as pedras e cavou uma vala de irrigação, levantou algumas temporadas de colheitas e depois a vendeu por um lucro considerável." />
+    <string id="ccf67J3J" text="You grabbed a bow and sent a few arrows the raiders' way. They took cover, giving you the opportunity to flee with your brother." />
+    <string id="cDWbwBwI" text="joined the kern" />
+    <string id="cepWNzEA" text="Jumping on the two remaining horses in the inn's burning stable, you and your brother broke out of the encircling raiders and rode off." />
+    <string id="CEqKkY3m" text="Defenda-se por cima." />
+    <string id="cfTiiEEM" text="The Empire has a genius for destruction - the destruction of languages, traditions, gods. It takes our fortresses, slaughters our men, and turns our children into its own children." />
+    <string id="character_creation_content_16" text="Quando criança, você foi notado por ..." />
+    <string id="CITG915d" text="joined a commander's staff" />
+    <string id="cNwejsNl" text="Convenient legend, eh? Of course the Calradians have been defeated many times, but I guess those were not 'true sons.' Still, you could say it represents the strength and endurance of this empire." />
+    <string id="cOgmdp9e" text="Decline" />
+    <string id="CRmUZvaW" text="Perhaps Neretzes was rash, sending our infantry up into the hills to storm the Battanian fort. But he thought he could grab the pass quickly, before the enemy had time to reinforce it. If he had made the other wager and that turned out to be wrong, people would say he was hesitant." />
+    <string id="cRvSuYC8" text="Escolha outra arma ou vá para outra área de treinamento." />
+    <string id="csUq1RCC" text="You were employed as a hired hand at the town's stables. The overseers recognized that you had a knack for horses, and you were allowed to exercise them and sometimes even break in new steeds." />
+    <string id="CvBoRaFv" text="You were able to grab a knife in the confusion of the attack. You stabbed a raider blocking your way." />
+    <string id="cYibaPhn" text="The barbarians just kept coming and coming. I fought my way out with some loyal men, and made my way back to the capital. But I found that Arenicos had got there before me, and had himself declared Emperor. He always was a cunning operator." />
+    <string id="d3cL1Tav" text="Heeding the advice of {MENTOR.LINK}, you have created your imperial faction." />
+    <string id="D4MuSwRB" text="A sad day for the Bani Qild. But we had our vengeance." />
+    <string id="D9RoNGJg" text="Buy 2 {GRAIN}{.s}. Click &quot;Buy Products&quot; option on village menu to buy products." />
+    <string id="Db98U6fF" text="Defenda-se pela esquerda." />
+    <string id="dDmcqTzb" text="Você não tinha o tipo de reputação de que são feitas as lendas locais, mas foi do tipo que ganha respeito entre os que o rodeiam. Você foi consistentemente justo e honesto em seus negócios e prestou assistência àqueles que estavam com problemas." />
+    <string id="dE2ufxte" text="Antes de fazer qualquer outra coisa ... Estamos com pouca comida. Há uma vila ao norte daqui onde podemos comprar provisões e encontrar alguma ajuda. Você é um melhor piloto do que eu, então eu vou deixar você ir na frente ..." />
+    <string id="DFidSjIf" text="A maioria das crianças ao seu redor tinha apenas a educação mais rudimentar, mas você ficava depois da aula para estudar letras e matemática. Você ficou fascinado com o mercado - pesos e medidas, contagens e contas, a conversa sobre lucros e perdas." />
+    <string id="Dfmg8stq" text="Eliminate {FACTION}" />
+    <string id="DIgsfYfz" text="Você levou os bens de sua família para a cidade mais próxima para vendê-los e comprar suprimentos. Foi um trabalho árduo, mas você gostou da agitação do mercado." />
+    <string id="DjeAJtix" text="Talvez tenha sido um caso de amor, ou talvez você tenha trapaceado nos dados, ou talvez tenha escolhido mal suas palavras enquanto bebia com uma multidão perigosa. De qualquer forma, em uma de suas viagens à cidade, você teve o tipo de problema do qual apenas uma língua rápida ou pés rápidos o tiram vivo." />
+    <string id="DM6luo3c" text="Continuar" />
+    <string id="DO4PE3Oo" text="Current Party Size" />
+    <string id="DQzEgUzu" text="You talked with {HERO.LINK} and got some valuable information that may help you understand the artifact." />
+    <string id="DsCkf6Pb" text="Crescendo, você passava a maior parte do tempo ..." />
+    <string id="duD8SJDb" text="Our knights spotted a mass of Aserai light infantry spread across a valley, and charged them. They weren’t ready to meet the onslaught, and were routed. But then a bunch of Khuzaits showed up and kept their distance, giving the knights a hard time, shooting their horses out from under them. That’s when we showed up." />
+    <string id="DuQvj7zd" text="\n+{VALUE} to {TRAIT_NAME}" />
+    <string id="dWVsS3D8" text="The bravest and most valiant son of our clan, Nimr, led off a large group of Aserai warriors to fight for the Empire, for gold and glory. I went with them. When we saw the Battanian archers come down from the hills, Nimr was ready. He gave the word: we held our shields over our heads as the arrows rained down, then threw our javelins and charged. We cut them down." />
+    <string id="DyE3luNM" text="You need to have at least {NUMBER} member in your party to deal with the raider party. Go back to village to recruit more troops." />
+    <string id="Dz9T60U2" text="Now things have changed, of course. You choose whichever faction you feel you could best work with." />
+    <string id="E31IJyqs" text="Recrutar tropas" />
+    <string id="E87miqTI" text="Exhausted from the war, the clans of the {FACTION} offer to make peace with the {PLAYER_SUPPORTED_FACTION}." />
+    <string id="e8Tjf8Ph" text="Hire 1 Companion" />
+    <string id="eaxOH9mb" text="My informants will tell you once you pledged your support..." />
+    <string id="EdUppdLZ" text="you tricked the raiders." />
+    <string id="EEedqolz" text="Beduíno" />
+    <string id="eH8z6Fws" text="Despite its Dragon Banner, the {PLAYER_SUPPORTED_KINGDOM} has been destroyed!" />
+    <string id="ehnbi5yD" text="I am afraid I haven’t seen any children. But after our caravan was attacked, the chief of the raiders, the one they call Radagos, took and rode off with our more valuable belongings, including a chest that I had." />
+    <string id="EitTbGvB" text="I am not sure. I haven’t made up my mind about this." />
+    <string id="eJX7rhch" text="You have successfully rebuilt your clan." />
+    <string id="elJCacQO" text="I am working on it." />
+    <string id="elQnygal" text="Your family scraped up the money for a rudimentary schooling and you took full advantage, reading voraciously on history, mathematics, and philosophy and discussing what you read with your tutor and classmates." />
+    <string id="ElTUaqOX" text="I was a confidant of the old emperor Neretzes. Officially I was not his spymaster, as I am a woman, but that was the role I played nonetheless. I liked Neretzes, and was very grateful for his trust, but he was not a good emperor. Too stubborn and principled. I probably should have poisoned him." />
+    <string id="eNJBjYG8" text="You successfully assembled the Dragon Banner of Calradia." />
+    <string id="EOSyvdFG" text="Then the Vlandian knights came. We were attacked on two sides and the Emperor, who could have sent men to save us, took his time. Perhaps he wanted the best of the Aserai to die, lest we become too powerful later. But that betrayal was nothing compared to what we received from our fellow Aserai of the Bani Qild." />
+    <string id="etG87fB7" text="Com seu tutor" />
+    <string id="eV8R0SKp" text="You have collected all the pieces of the Dragon Banner. Now you can decide what you will do with the pieces. Return to {IMPERIAL_MENTOR.LINK} or {ANTI_IMPERIAL_MENTOR.LINK} to decide your path." />
+    <string id="eVgAY7ts" text="Good Heaven, I'll need a better description than that. My men have harvested dozens of little brats in this region. Quite good hunting grounds! Already sent most of them south to a slave market I know, though.[ib:confident]" />
+    <string id="EWD4Op6d" text="Notification" />
+    <string id="EXp18CLD" text="Kingdom of the {CLAN_NAME}" />
+    <string id="EZ19JOGj" text="{MENTOR.NAME}'s House" />
+    <string id="ez4rbGmx" text="Insults his most powerful vassal and then insults his most valued ally. A fine day’s work, wouldn’t you say? But he has grown wiser since, though no more pleasant to spend time with." />
+    <string id="F0ldgio8" text="Volte ao treinamento." />
+    <string id="F1syZDs4" text="\n+{VALUE} to {TRAIT_NAME_ONE} and {TRAIT_NAME_TWO}" />
+    <string id="F26iH45g" text="What happened? Did you find the banner piece?" />
+    <string id="F2bgujPo" text="were a chieftain's servant" />
+    <string id="F7OO5SAa" text="Quando jovem, em Calradia, a guerra nunca esteve muito longe. Você..." />
+    <string id="F7VxtCSd" text="Esta opção está desativada durante a fase do tutorial." />
+    <string id="FaQDaRri" text="Eu irei continuar aqui. Eu preciso saber que posso lutar se for necessário. (Continuar tutorial)" />
+    <string id="fBJRdxh2" text="Tente novamente." />
+    <string id="FBp2ranI" text="So, can you help me find a buyer for it?" />
+    <string id="fC60rYwy" text="Ataque pela direita." />
+    <string id="FfNwXtii" text="Se a gangue de filhotes de lobo de sua infância tivesse um alfa, definitivamente seria você. Todas as outras crianças seguiram sua liderança enquanto você decidia o que jogar e onde jogar, e os levou a jogos e travessuras." />
+    <string id="Fgta5mF6" text="Before I answer, you and I need to know more about each other. I don't know what you know about me.  I was a citizen of the Empire. I was a commander in the imperial armies. But I am not imperial." />
+    <string id="FHM5GcHW" text="Good. Then I will tell you what I know. I heard about one other piece.[sp:/Sounds/VO/mainquest/mntemp_q01_09.ogg]" />
+    <string id="FhZPjhli" text="Your hometown was briefly placed under siege, and you were called to defend the walls. Everyone did their part to repulse the enemy assault, and everyone is justly proud of what they endured." />
+    <string id="FKpLEamz" text="Cuidando de cavalos" />
+    <string id="flGyoqa6" text="It was Sturgians who met Neretzes’ guard face-to-face. My father ordered me to stay back as he led them into battle, but he was at their head. He forced them back, then they broke and ran for the shelter of their camp. We went and attacked their ramparts, and broke them, but my father was hit by an imperial mace at the moment of his triumph and died." />
+    <string id="flkmzKDz" text="Many Qildi youth went with him. They died in their hundreds. And there was no gain - except for Nimr, who for some reason people considered a hero. It was despicable how they fawned on him." />
+    <string id="fp6QBO7l" text="I'll need to take these men with us. {RADAGOS.NAME} is a slippery one. I don't want him getting away." />
+    <string id="FPhWhjq7" text="Defeated" />
+    <string id="FQntPChs" text="Sua família era comerciante em uma das principais cidades do Império. Às vezes, organizavam caravanas para cidades próximas e discutiam questões no conselho da cidade." />
+    <string id="FUwIgcZO" text="Are you sure about that? (This option will finish the tutorial, which has story elements, and start the full single player campaign. It is recommended that you pick this option only if you have already played the tutorial once.)" />
+    <string id="FVaRDe2a" text="Parentes de um Noyan" />
+    <string id="fVKuuzCC" text="I'm the ruler of the {FACTION}. I shall bear the Dragon Banner." />
+    <string id="FWSwngVX" text="Shall we get on the road? Remember - if I drop dead of exhaustion, or drown in some river, that's it for your little dears. I don't expect a cozy palanquin, now, but you'd best not make it too hard a trip for me." />
+    <string id="g31pXuqi" text="Agricultores em um Oásis" />
+    <string id="GabaznVa" text="About founding my own faction.." />
+    <string id="gBbm9beO" text="Acerte todos os alvos. {REMAINING_TARGET} {?REMAINING_TARGET&gt;1}alvos{?}alvo{\?} faltando." />
+    <string id="GCbqpeDs" text="Tutorial is over. You are now free to explore Calradia." />
+    <string id="gdgbaMOP" text="I am not sure I share your views." />
+    <string id="GeNKQlHR" text="Membros da guarda do Chefe" />
+    <string id="GEYzLuwb" text="Seu cuidado com as pessoas" />
+    <string id="GFUggps8" text="Marchou com os seguidores de acampamento" />
+    <string id="GGfM1HKn" text="Welcome to MBII Bannerlord" />
+    <string id="Ghz90npw" text="Sua família possuía alguns cavalos nos estábulos da cidade e você tomou conta deles. Em muitas noites você os levava para além dos muros e galopava pelos campos, correndo com outros jovens." />
+    <string id="gJBNUAJd" text="Termine o trajeto e atinja o máximo de alvos que puder." />
+    <string id="gL241Hoz" text="Very nice. Superstitious twaddle, of course, but people will believe you." />
+    <string id="gL3WCqM5" text="Settlement Count" />
+    <string id="GM3tAYMr" text="Ação hostil" />
+    <string id="GmTaM0gR" text="Your clan must have a significant amount of renown." />
+    <string id="gOI8lKcl" text="you rode off on a fast horse." />
+    <string id="gQ2tAvCz" text="Agricultores" />
+    <string id="gSBGpUBm" text="Find {RADAGOS.LINK}' hideout." />
+    <string id="GsPC2MgU" text="Seu pai fazia parte de um dos guarda-costas escravos mantidos pelos Emires Aserai. Ele lutou ao lado de seu mestre com a cavalaria blindada da tribo e foi libertado - talvez por um ato de bravura, ou talvez ele pagou por sua liberdade com sua parte dos espólios da batalha. Ele então se casou com sua mãe." />
+    <string id="GVMGXfxS" text="You can use our family name if you like or make up a new one. You will have a better chance of obtaining an audience with nobles and it’ll be easier for me to find you by asking around." />
+    <string id="GxlPj4GC" text="Find the hideout that Istiana told you about and get the next banner piece." />
+    <string id="gYYGGflb" text="Não temos tempo a perder. Podemos fazer mais se nos separarmos. (Pular tutorial)" />
+    <string id="GZaYmg95" text="Você concluiu com êxito o tutorial sobre espadas." />
+    <string id="h2KnarLL" text="trained with the cavalry" />
+    <string id="h31YaM4b" text="Monte no cavalo" />
+    <string id="h9VP4ypW" text="Find and meet {HERO.LINK} to learn more about Neretzes's Banner. She is currently in {SETTLEMENT}." />
+    <string id="hadftxlO" text="We have strayed too far from our path. I'll take the lead for some time. You follow me." />
+    <string id="HDBkwjgf" text="{NOBLE_ANSWER}" />
+    <string id="HddJT1Ve" text="I wasn't there. I know {HERO.LINK} has some thoughts about it." />
+    <string id="hFYG3lXw" text="Well, that's what some people call the great Battle of Pendraic in the year 1077." />
+    <string id="hGPdLssq" text="The ruler of the {PLAYER_SUPPORTED_FACTION} has accepted the peace offered by the war-ravaged {FACTION}." />
+    <string id="HhFHRs7N" text="Create {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}" />
+    <string id="HhuBPfJn" text="Vá até o treinador." />
+    <string id="HL9lzfjY" text="Of course I can. You know my name, whose son I am." />
+    <string id="hnFkhPhp" text="This option is disabled during tutorial stage." />
+    <string id="HOb07MJF" text="I don’t know much about it. I know two who might, though. {IMPERIAL_MENTOR.LINK} - she once served as Neretez's unofficial spymaster. Then there's {ANTI_IMPERIAL_MENTOR.LINK}. He served on Neretzes's bodyguard, but people say now he's very different than he was back then." />
+    <string id="hob3WVkU" text="Seu pai era membro da druzhina de um boiardo, os 'companheiros' que compõem seu séquito. Ele se sentou à mesa de seu senhor no grande salão, supervisionava as propriedades do boiardo e ficava ao seu lado no centro da parede de escudos durante as batalhas." />
+    <string id="HqlXdzcv" text="Talk with {HEADMAN.NAME}" />
+    <string id="HqzVBfpl" text="Comerciantes urbanos" />
+    <string id="hUjmasXC" text="And, you must own an imperial settlement." />
+    <string id="HvGW2DvS" text="Trajeto iniciado." />
+    <string id="hXl25avg" text="Sua família contratou um professor particular e você aproveitou ao máximo, lendo vorazmente sobre história, matemática e filosofia e discutindo o que você lê com seu tutor e colegas de classe." />
+    <string id="hYgmzZJX" text="Denars" />
+    <string id="i20baAus" text="\n+{VALUE} to {TRAIT_NAME_ONE}, {TRAIT_NAME_TWO} and {TRAIT_NAME_THREE}" />
+    <string id="I3PcdaaL" text="Lobos, ursos são uma ameaça constante para os rebanhos do norte de Calradia, enquanto hienas e leopardos perturbam o sul. Você foi com um grupo de seus colegas aldeões e atirou a flecha que derrubou a besta." />
+    <string id="i3SSc0I4" text="{IMPERIAL_MENTOR.NAME}'s Plan" />
+    <string id="i5OOargr" text="Such are the fortunes of war. But what came afterwards… When word spread of what happened to our menfolk, the other clans - the Arkits in particular - knew we were weak. Our herds were raided. Anyone who protested was killed. Monchug did little to stop it. It taught us that valor will get you killed, but treachery will make you rich." />
+    <string id="IavuL9KI" text="Of course. I intend to use the banner to help save the Empire." />
+    <string id="ib2TKPUa" text="The ruler of the {FACTION} is leading the alliance against you. Defeat their armies or force them to make peace by capturing their settlements and destroying their parties to achieve victory." />
+    <string id="ibm9EEPa" text="No, I need more time to decide." />
+    <string id="IITkXnnU" text="Calradia is a land full of peril - but also opportunities. To face the challenges that await, you will need to build up your clan.\nYour brother told you that there are many ways to go about this but that none forego coin. Trade would be one means to this end, fighting and selling off captured bandits in town another. Whatever path you choose to pursue, travelling alone would make you easy pickings for whomever came across your trail.\nYou know that you can recruit men to follow you from the notables of villages and towns, though they may ask you for a favor or two of their own before they allow you access to their more valued fighters.\nNaturally, you may also find more unique characters in the taverns of Calradia. However, these tend to favor more established clans." />
+    <string id="Ikd2KnkS" text="Have you made any progress?" />
+    <string id="ImLQNYWC" text="Very well - I'll duel you." />
+    <string id="InN5ZZt3" text="Retentores de um senhorio" />
+    <string id="ipQP6aVi" text="Mercenários" />
+    <string id="iQeMllr8" text="When it was just us fighting the horse archers, we were winning.. A man on foot can shoot as well or better than a man on horseback, all things being equal, and there were a lot more of us. So they started to go down and galloped off. The knights of course pursued, and that’s when the problems started." />
+    <string id="iQrwsvb1" text="We had no choice but to go to war. Anyone who tells you they would have done otherwise is either a liar or a coward or both. The Sturgians attacked us, and needed to be chastised. We lost an army and a banner. But we did not lose our honor, and without honor the Empire would be finished." />
+    <string id="iR4QCTxv" text="Weaken Empire" />
+    <string id="itRoeaJf" text="We heard you took our little brother and sister. Where are they?" />
+    <string id="ivKl4mV2" text="Seu pai era um tenente de confiança do aristocrata local. Ele montou com a cavalaria do senhor feudal, lutando como um lanceiro blindado." />
+    <string id="IYnFgEgy" text="Vamos continuar então. (Jogue o tutorial de combate)" />
+    <string id="iZKtGI6Y" text="Your family arranged for you to accompany a minor baron of the Vlandian kingdom. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle." />
+    <string id="j2dW9fZt" text="Ataque por cima." />
+    <string id="J4qetbZb" text="I found this strange looking metal piece though. It doesn’t look too valuable, but it could be the artifact {TACTEOS.NAME} was talking about. Maybe we can sell it to one of the noble clans for a hefty price." />
+    <string id="j6py5Rv5" text="Seus pais eram curandeiros que colhiam ervas e tratavam os doentes. Como um reservatório vivo da tradição battaniana, eles também foram convidados a julgar muitas disputas entre os clãs." />
+    <string id="j9f9Ts7i" text="I have a better idea. We would have a better chance if we split up now. I’ll take {RADAGOS.NAME} and go find the slaver market and look for a way to free the children. However we must be careful not to endanger their lives and it could be better to just buy them. We need to have our purses full for that though." />
+    <string id="jAs3kDXh" text="Seus familiares eram os parentes de confiança de um Noyan Khuzaita, e compartilhou suas refeições no Yurt do chefe. Seu pai ajudou seu chefe na administração dos negócios do clã e lutou no núcleo de lanceiros blindados no centro da linha de batalha Khuzaita." />
+    <string id="jeWV2uV3" text="{EXP_VALUE} Skill Level and {FOCUS_VALUE} Focus Point to {SKILL_ONE}, {SKILL_TWO} and {SKILL_THREE}\n{ATTR_VALUE} attribute point to {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
+    <string id="jg3T5AyE" text="Like many families in Calradia, your life was upended by war. Your home was ravaged by the passage of army after army. Eventually, you sold your property and set off with your father, mother, brother, and your two younger siblings to a new town you'd heard was safer. But you did not make it. Along the way, the inn at which you were staying was attacked by raiders. Your parents were slain and your two youngest siblings seized, but you and your brother survived because..." />
+    <string id="jGhWOnjx" text="Yes. It was madness. The greatest blow struck against the Empire in a lifetime, and we squandered it squabbling among ourselves about a flag." />
+    <string id="JhEzD45J" text="Purchase {GRAIN}" />
+    <string id="JJiKk4ow" text="Select your family name: " />
+    <string id="JJo0i8an" text="Look around the village to find the party that captured the traveller whom the headman told you about." />
+    <string id="jmPeb7kD" text="Try to stop the conspiracy." />
+    <string id="Jn4r0GjD" text="So, can you help me find a buyer for it." />
+    <string id="jnOa3cbK" text="Before I reveal that information to you. I need to know more about your intentions. One could use the banner to restore the empire, but one could also use the banner to destroy it.[sp:/Sounds/VO/mainquest/mntemp_q01_06.ogg]" />
+    <string id="JOJ09cLW" text="Let's go." />
+    <string id="joRHKCkm" text="Your family needed someone trustworthy to take a caravan to a neighboring town. You organized supplies, ensured a constant watch to keep away bandits, and brought it safely to its destination." />
+    <string id="jPKIN2r4" text="One more thing. When you are talking to nobles and other people of importance, make sure you present yourself as someone from a distant but distinguished family." />
+    <string id="jq5TnHEN" text="If you can find the missing pieces, I am sure I can help you put it to good use.[sp:/Sounds/VO/mainquest/mntemp_q01_05.ogg]" />
+    <string id="JTPmw3cb" text="You couldn't complete the quest in {YEAR} years." />
+    <string id="JUSHAPnu" text="Você era rápido e atento ao que estava acontecendo ao seu redor. Normalmente você conseguia fugir de problemas, embora você pudesse dar conta de si mesmo em uma briga com outras crianças se encurralado." />
+    <string id="Jvf6K7TZ" text="Sua família está entre os muitos migrantes pobres que vivem nas favelas que crescem fora dos muros das cidades imperiais, ganhando o que pudessem com uma variedade de trabalhos estranhos. Às vezes, eles prestavam serviços a uma das muitas quadrilhas criminosas do Império." />
+    <string id="JVkPkbdg" text="You could not weaken the Empire." />
+    <string id="JWLBKIkR" text="Headman {FIRST_NAME}" />
+    <string id="JZ5jjSLV" text="I hold the Dragon Banner, and thus I am the legitimate ruler of the Empire of Calradia." />
+    <string id="k07wzat8" text="Ainda não estou pronto." />
+    <string id="K75sH3vW" text="And since I have nothing of value left to repay your help, I’ll tell you this. If you do catch up with and defeat that ruffian, you may be able to recover my chest. It contains a valuable ornament which I was told could be of great value, if you knew where to sell it." />
+    <string id="kATpK8v8" text="About giving the Dragon Banner to an existing kingdom..." />
+    <string id="kaZ1XtDX" text="You are not strong enough to attack. Recruit more troops from the village." />
+    <string id="kbcwb5TH" text="Nos mercados e caravançarais" />
+    <string id="kdR3CeL8" text="My husband’s small force held together, and were joined by stragglers and fugitives. He described the march back - no food, little water, marching day and night to keep ahead of the enemy’s outriders. But they survived - the only organized imperial force to do so." />
+    <string id="Ke7f4XSC" text="I present you with the Dragon Banner of Calradios." />
+    <string id="KfaqPpbK" text="Você, junto com outros jovens levou as ovelhas, cabras ou gado das aldeias para pastar em campos. Você estava encarregado de perseguir animais selvagems, e sempre mantinha uma grande pedra à mão para ser arremessada em predadores à espreita, se necessário." />
+    <string id="kg9YtrOg" text="Seus familiares eram ferreiros, uma profissão reverenciada entre os battanianos. Eles criaram de tudo, desde jóias finas de filigrana em desenhos geométricos até espadas longas bem equilibradas admiradas pela aristocracia battaniana." />
+    <string id="KhL2ctsi" text="You're ready to leave now. Talk to the headman again. He had said he have a task for you." />
+    <string id="kIklPYto" text="Você está pronto para sair daqui?" />
+    <string id="kJwV17Jx" text="Yes. We will never forget that day… The day we learned that the old men who claimed they had the right to rule us were doddering incompetents." />
+    <string id="kJxPtbHo" text="At the end of the day, what have we gained? The Sturgians hate us worse than ever. The Vlandians too. The Empire, I suppose, is shattered. What can I say… I believe that wars should have a goal. But I am a minority, it seems, among our people." />
+    <string id="kmM68Qx4" text="Suas habilidades de liderança" />
+    <string id="kNXet6Um" text="Você teve uma escapada famosa na cidade" />
+    <string id="kTaYz2mo" text="You talked with {HERO.NAME}." />
+    <string id="kvTEeUWO" text="Wrong way!" />
+    <string id="kw9sltab" text="The Battanians had planned an ambush up in a wooded pass for the imperial vanguard, then the Vlandians and Sturgians were to come sweeping down on their flanks in the battle. Our scouts found the Battanian ambush, but Neretzes did not listen, and blundered into it anyway." />
+    <string id="kwW6v202" text="Vá para a posição de disparo." />
+    <string id="KXj8bsao" text="So... If you intend to use the banner to save the Empire, I’ll tell you what I know. But if you want to go backward, not forward, then I will not help you." />
+    <string id="KXtaJNo4" text="\n+{VALUE} renown" />
+    <string id="kYtRsxSL" text="We fought the Vlandians. We won, but there was a great slaughter. My husband’s horse was slain and he was ridden down, though he died amid a pile of Vlandian dead. Elsewhere on the field, the Emperor was having his head hewn off with a Sturgian axe, and thus was in no position to pay us." />
+    <string id="KYW1UiKm" text="The Khergits were never the richest of the clans, but we made up for it with our valor. When word spread that the Emperor was promising silver for men to ride at his side, against the Sturgians and Battanians and others, of course our young brave boys lept at the chance. My husband, the bravest and best of them all, led them." />
+    <string id="L1V8L2N1" text="Yes. The Emperor Neretzes had offered to hire our warriors as mercenaries. I saw nothing wrong with that." />
+    <string id="L3Qb6lbp" text="Peace Offer from the {FACTION}" />
+    <string id="LbSvq3be" text="One other thing, brother. We want people to take us seriously. We may be leading men into battle soon. Let's give our family a name and a banner, like the nobles do." />
+    <string id="lD5Ob3R4" text="Talvez tenha sido um caso de amor, ou talvez você tenha trapaceado em dados, ou talvez você tenha escolhido mal suas palavras enquanto bebia com uma multidão perigosa. Enfim, você teve o tipo de problema do qual apenas uma língua rápida ou pés rápidos o tiram vivo." />
+    <string id="Lep5YKdt" text="While Neretzes’ vanguard was getting slaughtered, we met the Vlandians. But the Vlandians brought lots of crossbowmen, and our horse archers took heavy losses. Eventually the armored imperial cataphracts showed up, and rolled over the crossbows. But we were caught in a melee with the Vlandian knights, and that was where things got bloody." />
+    <string id="lIArdHty" text="Yes. The day my father died, thanks to Battanian treachery." />
+    <string id="lJiEsNiQ" text="A few hours after you leave the training ground, you come across a wounded man lying under a tree. You share your water with him and try to dress his wounds as best as you can. He tells you he is a traveling doctor. To thank you for your help, he hands you a small bronze artifact which he says was once given to him in payment by a warrior who said only that it was related to 'Neretzes's Folly.' He suspects it might be of great value. You resolve to find out more." />
+    <string id="lLJh7WAT" text="You worked in the marketplace, selling trinkets and drinks to busy shoppers." />
+    <string id="Lmfi0cYk" text="You encouraged the few travellers in the inn to break out in a coordinated fashion. Raiders killed or captured most but you and your brother were able to escape." />
+    <string id="lmG7uRK2" text="Okay" />
+    <string id="lnAhXvbo" text="There's this wandering doctor who comes through here from time to time. Name of Tacteos. Treats people for free... We're fond of him." />
+    <string id="LpH8SYFL" text="Seus familiares eram parentes de confiança de um Chefe Battaniano, e sentou-se à sua mesa em seu grande salão. Seu pai ajudou seu Chefe na administração dos negócios do clã e treinou com as armas tradicionais da elite battaniana, a espada de duas mãos ou Falx e o arco." />
+    <string id="Lwdkj0hG" text="Yes, I intend to use the banner to help save the Empire." />
+    <string id="MafIe9yI" text="Idade Adulta" />
+    <string id="mc78FEbA" text="Companheiros de um boiardo" />
+    <string id="Mcd3ZyKq" text="Sua família tinha terra suficiente para se alimentar e obter um pequeno lucro. Pessoas como eles eram os pilares da economia do reino." />
+    <string id="MDtTC5j5" text="Don't hurt us!" />
+    <string id="MEgLE2kj" text="Sua habilidade com cavalos" />
+    <string id="MfczTFxp" text="Parece um antigo campo de treinamento para as legiões. Talvez possamos poupar algum tempo e melhorar nossas habilidades. A prática pode ser útil quando alcançamos os invasores." />
+    <string id="mfRbx5KE" text="reading and studying" />
+    <string id="MFrIHJZM" text="Sua família era de uma ramificação menor da tribo de um Emir. A terra de seu pai lhe deu renda suficiente para comprar um cavalo mas ele não era suficientemente rico para comprar a armadura necessária para se juntar à cavalaria mais pesada. Ele lutou como um dos cavaleiros leves pelos quais o deserto é famoso." />
+    <string id="MK3MUZ4O" text="Your clan must be independent of any current realm." />
+    <string id="MMv3hsmI" text="I don't duel slavers. Men, attack!" />
+    <string id="MnmblprY" text="So, where can I find the other pieces" />
+    <string id="MOVWOyeh" text="Clearly you have been chosen by Heaven for a great purpose. I see the makings of a new legend here... Allow me to call you 'Bannerlord.'" />
+    <string id="mP3uFbcq" text="Você liderou uma caçada bem-sucedida" />
+    <string id="MREvo37b" text="If you can keep an eye out for him, this Tacteos, we'd be very grateful. Maybe, if he's alive and well, he'll tell you a little more about his 'quest.'" />
+    <string id="mtiaY2Pa" text="How can I support an existing kingdom?" />
+    <string id="mU1bC1mp" text="You encountered the raider party." />
+    <string id="muTb15Io" text="I do not know where the other pieces are, you may need to keep searching for them.[sp:/Sounds/VO/mainquest/mntemp_q01_10.ogg]" />
+    <string id="mxKhvbn7" text="You have decided to unify the Empire." />
+    <string id="N5Qg5ick" text="You told {MENTOR.LINK} that you will create your own imperial faction. {?MENTOR.GENDER}She{?}He{\?} expects you after the requirements are fulfilled." />
+    <string id="N66QkYv8" text="Você venceu o treinador novato. Vá para o treinador veterano." />
+    <string id="NdkqUnXb" text="To create your own kingdom, you must fulfil some conditions." />
+    <string id="Nf3Hso4i" text="When this civil war began, I was a bit torn... Rhagaea was the cleverest ruler, Garios probably the best fighter, and Lucon seemed to have the best grasp of our laws and traditions. But you can make up your own mind." />
+    <string id="ngazFofr" text="Você sempre foi atraído por animais e passou o máximo de tempo possível passeando nos estábulos da vila. Você podia acalmar os cavalos e às vezes era chamado domar novos potros. Você aprendeu o básico das artes veterinárias, grande parte aplicável também aos seres humanos." />
+    <string id="NGbgfPoP" text="I was there. Many of the Khuzaits went. Mostly the Khergit clan, who were hungry for glory, but I was also young and hungry for glory so I went along as well." />
+    <string id="ngFVgwDD" text="Escravos guerreiros" />
+    <string id="NItH4oL6" text="Bem, se eles ainda estão pilhando, eles podem ter se dividido em grupos menores. Espero que não precisemos lidar com todos de uma vez. Mas ajudaria se pudéssemos contratar ou convencer algumas pessoas a se juntarem a nós." />
+    <string id="nOfSqRnI" text="no campo de treinamento da vigilância da cidade" />
+    <string id="NvkWtb8f" text="Find the hideout of {RADAGOS.NAME}'s gang and defeat them" />
+    <string id="NzQq2qp1" text="Gather {PARTY_SIZE} Troops" />
+    <string id="oA4iTPyV" text="You have collected enough information." />
+    <string id="oa4XFhve" text="Travel To Village {VILLAGE_NAME}" />
+    <string id="oaSTbNwz" text="So have you made up your mind now?" />
+    <string id="OffNcRby" text="All right then. Let’s get on the road." />
+    <string id="Og8nep1w" text="They had overextended themselves, chasing the imperial archers. Light foot before our knights - there was no contest. Let me tell you something - nine-tenths of victory is recognizing when your enemy has made a mistake. The rash perish as swiftly as the weak, and deserve it just as much" />
+    <string id="ok8lSW6M" text="Juventude" />
+    <string id="OKgsM4nr" text="I curse that name. It took from me my husband, two brothers, more cousins than I can count." />
+    <string id="oMbOIPc9" text="Juntou-se aos escaramuçadores" />
+    <string id="omni7OIs" text="Let the fields of Calradia be watered with imperial blood." />
+    <string id="OMrnTIe0" text="You rescue several prisoners that the raiders had been dragging along. They look parched and exhausted. You give them a bit of water and bread, and after a short while one staggers to his feet and comes over to you." />
+    <string id="ORnjaMlM" text="You were defeated by the raiders, but your brother saved you. It doesn't look like they're going anywhere, though, so you should attack again once you're ready.\nYou must have at least {NUMBER} members in your party. If you don't, go back to the village and recruit some more troops." />
+    <string id="Os79KwFa" text="I was with the vanguard. Neretzes apparently knew that the Battanians had planned an ambush - the Khuzait scouts had told him. But he never bothered to inform us. So up we went, along a lovely wooded stream, until the Battanian arrows started whooshing in from all sides." />
+    <string id="OS8YjyE5" text="You should collect all of the pieces of the Dragon Banner before deciding your path." />
+    <string id="OwcgxRXB" text="Weakened by the war, the {FACTION} has collapsed and its clans have defected to surrounding kingdoms." />
+    <string id="oX2aoilb" text="{MENTOR.NAME} knows of the rise of your {KINGDOM_NAME}. Rumors say {MENTOR.NAME} is planning to undo your progress. Be ready!" />
+    <string id="p0fmZY5r" text="O chefe daqui provavelmente pode nos ajudar. Vamos tentar encontrá-lo ..." />
+    <string id="p2KIhGbE" text="Ferreiro urbano" />
+    <string id="p4qJ4KSm" text="If you want more information, there are two people you might try to speak to. {IMPERIAL_MENTOR.NAME} worked as a sort of unofficial spymaster for Neretzes. She lives near {IMPERIAL_MENTOR_SETTLEMENT}." />
+    <string id="pa9LrHln" text="Estamos aqui, eu acho. Então ... precisamos de comida, e depois disso, talvez alguns homens venham conosco." />
+    <string id="PCm9w15S" text="Empire of Calradia" />
+    <string id="peNBA0WW" text="História" />
+    <string id="peSuujki" text="Finally, you must rule a settlement that is not imperial." />
+    <string id="PJ5C3Dim" text="{ANTIIMPERIAL_MENTOR.NAME}'s Conspiracy" />
+    <string id="PKhcPbBX" text="Sua família fazia parte de um clã nômade, cruzando o Nahasa para alimentar seus rebanhos de cabras e camelos." />
+    <string id="pOuGX9j0" text="You may have one piece of the banner, but it’s of little use in itself. You’ll have to find the other parts. But once you can bring together the pieces, you’ll have something of tremendous value." />
+    <string id="PQgzfHLk" text="Well now. I had heard rumors that you had obtained this great artifact." />
+    <string id="pVKkclVk" text="Interactions are limited during tutorial phase. This interaction is disabled." />
+    <string id="pX5cx3b4" text="I mean you no harm. We're hunting a group of raiders who took our brother and sister." />
+    <string id="PyVqDLBu" text="Your parents didn't give you much money, but they did leave just enough for you to secure a loan against a larger amount to build a small workshop. You paid back what you borrowed, and sold your enterprise for a profit." />
+    <string id="q0PMinbA" text="Suffice to say that I know better than anyone about the lies and cruelty that kept the Empire alive. But all the murders I ever committed in 10 years of serving Neretzes do not amount to the death toll in a single hour when an army storms a town." />
+    <string id="q80FFaBj" text="Then there is {ANTI_IMPERIAL_MENTOR.NAME}, who was his bodyguard. He's supposed to be near {ANTI_IMPERIAL_MENTOR_SETTLEMENT} - though I hear he's changed quite a bit since then." />
+    <string id="qa0o7xaj" text="Clan Independence" />
+    <string id="qAbMagWq" text="Vendeu produtos no mercado" />
+    <string id="Qb0wsarP" text="There was a warrior named Nimr, of the Bani Sarran. He was brave, but arrogant. Of course the young people loved him. He wanted to lead men to fight with the Empire, and though there was no gain for us, Unqid let him. Unqid can be weak sometimes." />
+    <string id="qcGbTfbH" text="Find me when you are ready!" />
+    <string id="Qdz5Hely" text="Defenda-se por baixo." />
+    <string id="QF8B6XFS" text="All right then. Let us split up and look for the little ones separately. I’ll send you a word if I find them before you do..." />
+    <string id="qhAhPWdp" text="you organized the travelers to break out." />
+    <string id="qIltCuBe" text="Get on the road now. Once I locate the little ones, I’ll come find you." />
+    <string id="QLgkR3qN" text="Você concluiu com êxito a pista em ({TIME_SCORE}) segundos. Você recebeu uma penalidade de ({PENALTY_SECONDS}) segundos por ({MISSED_TARGETS}) alvos errados." />
+    <string id="qlOuiKXj" text="You had a famous escapade" />
+    <string id="qMUfOtyk" text="You talked with {HERO.LINK}." />
+    <string id="qnqdEJOv" text="Você assistiu ao treinamento tiro e aos planos da guarda da cidade para defesa das muralhas em caso de cerco." />
+    <string id="qNR8WKcX" text="You should join a kingdom before supporting it with the Dragon Banner." />
+    <string id="qNZFkxJb" text="Sua família era comerciante em uma das principais cidades do Reino. Eles organizaram caravanas para cidades próximas, eram ativos na guilda de comerciantes local." />
+    <string id="qoA4UPly" text="Nothing can bring the Palaic people back. They are now imperial. But is an insult to our name, to our gods, to our memory, that the state which destroyed our shrines and fortresses should last and thrive." />
+    <string id="qp2zYfua" text="I was hoping to find more treasure here, but I think business wasn’t going too well for {RADAGOS.NAME} and his gang." />
+    <string id="qPg3IDiq" text="Sua família veio de um dos clãs mercantes que dominavam as cidades no leste de Calradia antes da conquista Khuzaita. Eles se adaptaram rapidamente a seus novos senhores, mantendo as rotas das caravanas em funcionamento e garantindo que as receitas tarifárias que uma vez entraram nos cofres imperiais agora fluíam para o canato." />
+    <string id="QrYjPUEf" text="Sua atenção aos detalhes" />
+    <string id="qV1e0x8i" text="What is 'Neretzes's Folly'?" />
+    <string id="QxeKZ3nE" text="Reach Clan Tier {CLAN_TIER}" />
+    <string id="r2XC8nbZ" text="{YOUTH_INTRO}" />
+    <string id="R3CnF55p" text="So... Who's this that comes through my place of business, killing my employees?[if:idle_angry][ib:warrior]" />
+    <string id="R4Gqskgq" text="Victory" />
+    <string id="R5kLv5kg" text="I am what they call Palaic. Palaic is a language that is no longer spoken, except by a few old people. Even the word 'Palaic' is imperial. We are a people who have forgotten who we are." />
+    <string id="r8ZLabb0" text="I have gathered all pieces of the Dragon Banner. What now?" />
+    <string id="rbjjDYXj" text="You wefre defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again." />
+    <string id="RbXiEdXk" text="Reach Clan Tier 1" />
+    <string id="rcoueCmk" text="Adolescência" />
+    <string id="rCX81DDR" text="The Empire has been destroyed!" />
+    <string id="RDfXuVxT" text="Fazendeiros" />
+    <string id="RF3NoR3d" text="He seemed to be controlling more than one band raiding around this area. If this lot has your kin, then I think he'd be the one to know." />
+    <string id="rfkKxdxp" text="You talked with {ANTI_IMPERIAL_MENTOR.LINK} too. Now you should make a decision." />
+    <string id="Ri6NmpEE" text="I will never forget when a messenger ran to tell me that my father was dead. But I knew I must swallow my grief, because now I was king. I rode down into the ruins of the imperial camp to take their banner as a trophy, my inheritance won by my father and passed down to me. Oh, some of the boyars were insubordinate. But I have since showed them that I am master." />
+    <string id="rinefpgo" text="Você chegou na vila. Você pode comprar comida e contratar alguns homens para ajudar a caçar os bandidos. Primeiro entre no assentamento e converse com o chefe da vila." />
+    <string id="RJ9NbuYr" text="So you want me to raise the money to ransom the little ones?" />
+    <string id="RKVNvimC" text="Pastoreou as ovelhas" />
+    <string id="RmbWW6Bm" text="You were a big and imposing enough youth that the chief's guard allowed you to train alongside them, in preparation to join them some day." />
+    <string id="rMem50oz" text="I have vowed that this Empire shall not survive this civil war, if I can do anything to stop it. And believe me, if I had that banner, there is very much something I could do." />
+    <string id="rmMcwSn8" text="Você ajudou sua família a lidar com os negócios deles, indo ao mercado para fazer compras e supervisionar a chegada de caravanas." />
+    <string id="RtryETdA" text="When they pledged to support us in the battle, we believed they would stand with us in the shield wall, like men. But of course this is not the Battanian way. They sprung some woodland trickery up in the hills, killed off Neretzes’ vanguard, and no doubt spent the rest of the battle whooping and boasting and chopping the heads off of men who were already dead." />
+    <string id="RuvSk3QT" text="Você acompanhou um caçador local quando ele foi para o deserto, ajudando-o a montar armadilhas e capturar pequenos animais." />
+    <string id="RwlDeE9t" text="You talked with {IMPERIAL_MENTOR.LINK} too. Now you should make a decision." />
+    <string id="RX55kcB5" text="Irmão:" />
+    <string id="rY0fdQSb" text="No, I am still working on it..." />
+    <string id="S1yCTPrL" text="This is one of the most valuable services anyone has ever done for me. I am very grateful." />
+    <string id="S5Dn2K3m" text="You couldn't stop the conspiracy. Try again." />
+    <string id="s8PNllPN" text="You saved your city quarter from a fire" />
+    <string id="sb4gg8Ak" text="Donos de uma pequena propriedade" />
+    <string id="scjogyUD" text="Old king Vadinslav was brave enough. He led us all into battle. I stood at my father’s side as we faced the imperials eye-to-eye over the tops of our shields. It was like any battle where shield walls meet - thrust and push, struggling to stay on your feet, but you can’t really describe it. Let’s just say it’s the kind of battle that Sturgians usually win." />
+    <string id="sejEf69A" text="I have heard no sweeter music than the thunder of our hooves as we bore down on the Aserai rabble. We fell on them like a falcon plunges upon a rabbit." />
+    <string id="SF7dqoEe" text="Of course Nimr’s arrogance doubled, and doubled again. And then he dealt us a great insult. I will not say what that insult was, because it longer exists. We wiped it out. In the traditional way. You may ask someone else about that." />
+    <string id="SFJFIaAD" text="Well… King Caladog’s great victory… Who would dare say anything to tarnish its shine?" />
+    <string id="ShG19Xhi" text="Thank you..." />
+    <string id="sivYeb1B" text="You have fulfilled all requirements to create your kingdom. Speak to {MENTOR.LINK} to proceed." />
+    <string id="sJeYHMGG" text="You have unified the Empire." />
+    <string id="sJoO1JzN" text="When the imperials had had enough of us they broke and ran for the ramparts. There they threw darts and rocks and their cursed fire. We had to go up ladders, one by one. Vadinslav was hit by a mace and went down; my father then went up, cleaving as he went, and rallied us and led us to victory." />
+    <string id="SmVwMrUM" text="The banner of Calradios is part of a legend. It was said to be carried by Calradios the Great, who first led his people to this land, to conquer and despoil. The legend says that no army led by a true son of Calradios shall be defeated in battle." />
+    <string id="sn3Eabme" text="Of course. I did not witness the battle, but my husband Arenicos spoke frequently of it." />
+    <string id="SpJqhEEh" text="Bardos" />
+    <string id="sSaZVD2e" text="My father took the imperial dragon banner from dead Neretzes’ hands - it’s a famous story - and but then the little prince Raganvad tried to claim it. My father broke it over his knee, threw it at him, and told him to get his own toys to play with. Hah! It was a good, good day." />
+    <string id="StLYbEQZ" text="Nós precisamos de ajuda. Alguns invasores capturaram nossos irmãos mais novos. Achamos que eles podem ter passado por aqui." />
+    <string id="str_continue" text="Continue..." />
+    <string id="SvYCz6z6" text="Você perdeu. Você pode reiniciar o treinamento interagindo com o rack de armas." />
+    <string id="Sw8OxnNr" text="Parentes de um Emir" />
+    <string id="sYuN6hPD" text="All of Calradia's kingdoms recognize the value of good light cavalry, and are sure to recruit nomads and borderers with the skills to fulfill those duties. You were a good enough rider that your neighbors pitched in to buy you a small pony and a sheaf of javelins so that you could fulfill their levy obligations." />
+    <string id="t71lPdyb" text="How so?" />
+    <string id="T7m7ReTq" text="Caçou pequenos animais" />
+    <string id="T7ye4wUT" text="King Aeril disappeared while hunting, and Caladog becomes king. He leads the tribes to war. Oh, we were eager enough, even though Aeril had made a truce with the Emperor, sealed by oaths. When we were dazzled with the prospect of vengeance, who cares about our sacred word and honor?" />
+    <string id="T8naYoGH" text="Nobles to Talk to" />
+    <string id="taOCFKtZ" text="You need to recruit more troops to deal with the raider party. Go back to village to recruit more troops." />
+    <string id="TB20aFsf" text="You probably are aware that I am {CONVERSATION_HERO.FIRSTNAME}. I am not sure why you have sought me out, but know that my old life, as imperial lap-dog, is over. [rb:trivial]" />
+    <string id="tBGtavMG" text="Most of those who went were Khergits. They are a young clan. Their lineage is not like ours. They were always looking to prove themselves. Anyway, at the battle, their noyan, Gotug, was slain alongside most of the males of his house. What can I say? A thirst for glory is dangerous, both to the thirsty one and those around him." />
+    <string id="TbNRtUjb" text="Você caçou um animal perigoso" />
+    <string id="TcRH7abK" text="When you have recovered all pieces, return to me and I’ll help you put them into use. " />
+    <string id="TeMExjrH" text="This option is disabled during current active quest." />
+    <string id="tGEStbxb" text="Pessoas da tribo" />
+    <string id="TH6L7OXu" text="Then you can come back when you made up your mind up.[sp:/Sounds/VO/mainquest/mntemp_q01_12.ogg]" />
+    <string id="tI5L0wRB" text="Heeding the advice of {MENTOR.LINK}, you have created your kingdom to oppose the Empire." />
+    <string id="tI8ZLtoA" text="Ajudou em projetos" />
+    <string id="TIaVyqMx" text="Glad to see you found what you needed. Now, about that matter I mentioned earlier... " />
+    <string id="TkgLEDRM" text="Comerciantes" />
+    <string id="TKpFB4qN" text="Emperor Neretzes led an army accompanied by Khuzaits and Aserai to fight a coalition of Sturgians, Battanians and Vlandians." />
+    <string id="tkXKef0Z" text="I too would see the empire destroyed." />
+    <string id="TLRyyRaW" text="Purchased {GRAIN} Amount" />
+    <string id="TNxWBS07" text="A luta começará em {REMAINING_TIME} {?REMAINING_TIME&gt;1}segundos{?}segundo{\?}..." />
+    <string id="TPoK3GSj" text="Vadios" />
+    <string id="tRIrbTvv" text="Bandidos urbanos" />
+    <string id="TRwgSLD2" text="Recolheu ervas" />
+    <string id="tsjQtWsO" text="Thanks for saving me again. I hope our paths will cross again!" />
+    <string id="tTb28jyU" text="Many Battanians fight as kern, versatile troops who could both harass the enemy line with their javelins or join in the final screaming charge once it weakened." />
+    <string id="tTLvo8sM" text="Clan Tier" />
+    <string id="tVlZTOst" text="You have chosen a different path." />
+    <string id="tw5v6xlf" text="About creating my own faction.." />
+    <string id="tWwXEWh6" text="Use the portrait to talk and enter the mission." />
+    <string id="tzkclhXs" text="Como devemos nos preparar para a luta?" />
+    <string id="tzsZTcWd" text="I wonder which kingdom should I support.." />
+    <string id="TZZX9kWf" text="{MENTOR.LINK} suggested that you should support an imperial faction by offering them the Dragon Banner." />
+    <string id="u1Pkt4HC" text="Raiders" />
+    <string id="UCoOMWaj" text="Look, there's a case for all of them. When this war began, I thought Rhagaea understood best how to rule, Garios was the strongest warrior, and Lucon had the firmest grasp of our traditions. Honestly I could not decide." />
+    <string id="UDL0v1bR" text="I believe I have a piece of the Dragon Banner of Calradius." />
+    <string id="ueCm5y1C" text="Sua família possuía sua própria oficina em uma cidade, produzindo mercadorias a partir de matérias-primas trazidas do campo. Seu pai teve um papel ativo, embora pequeno, no conselho da cidade, e também serviu na milícia." />
+    <string id="uhYXopnJ" text="Have you finished your preparations?" />
+    <string id="UjyZ7GFk" text="Impressive, most impressive. Well, things will get interesting now." />
+    <string id="UkNUuyr1" text="Defeated Parties" />
+    <string id="ULn7iWlz" text="It will be a powerful tool in our hands. People will believe that the Heavens intend us to restore the Empire of Calradia." />
+    <string id="uNgu02FH" text="Eles também pegaram seu pessoal? Esses bastardos também mataram e saquearam nossa vila." />
+    <string id="unOLk4PY" text="So. Who are you, and what brings you to me?" />
+    <string id="upyNhwZ9" text="Yes, I intend to use the banner to help destroy the empire." />
+    <string id="URgZ4ai4" text="Seus familiares eram membros de nível médio de um dos clãs Khuzaitas. Eles tinha alguns rebanhos, mas não eram ricos. Quando a horda Khuzaita o convocou para a batalha, ele lutou com os arqueiros montados, atingindo o inimigo antes que os lanceiros dessem o golpe final." />
+    <string id="UT0ADpno" text="I've done everything you've asked of me. I'm ready." />
+    <string id="uvbCyLiR" text="Is that true? Well, that is interesting." />
+    <string id="UVuwofhS" text="Clans rise, clans fall. My duty is to all the Khuzaits. Look at it this way. Were it not for her husband’s death, Lady Mesui would never have inherited the leadership of the Khergits. Death creates opportunity. The survivors of a great battle make a great show of mourning, but inside they rejoice." />
+    <string id="uw2kKrQk" text="{EXP_VALUE} Skill Level and {FOCUS_VALUE} Focus Point to {SKILL_ONE}\n{ATTR_VALUE} attribute point to {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
+    <string id="v48N6h1t" text="Artesãos urbanos" />
+    <string id="vaLehwRl" text="We had given an oath to the Empire, to join them if attacked. It seemed clear to me that we should have honored our oath, that the Battanians and Sturgians were aggressors, but, there is always room to argue details. Ultimately our barons did not wish to fight with the Empire, so they resisted coming to its help." />
+    <string id="vCBuF6dq" text="Recruit 4 recruits. Click &quot;Recruit Troops&quot; option on village menu to recruit troops." />
+    <string id="vDRRsed8" text="You'd better help us get our brother and sister back, or you'll swing from a tree." />
+    <string id="veHe94Ec" text="Você concluiu com êxito a pista em ({TIME_SCORE}) segundos sem perder nenhum alvo!" />
+    <string id="VeY3PQFL" text="You chose to defeat the Empire." />
+    <string id="vfhVveLW" text="Xamãs" />
+    <string id="vH7GtuuK" text="working at the stables." />
+    <string id="vjOHmHOH" text="The ambush… Masterfully planned and executed, that none can deny. But I will also not deny that the Sturgians fought the main body of the imperial forces, and the Vlandians fought their famous cavalry, so I don’t think the greatest glory went to the sons of Battania." />
+    <string id="vJyTsFdU" text="It doesn't look like much and I suspect this lot would give it away for a few coins, but I got it from a mercenary whom I treated once, and swore it was related to 'Neretzes’s Folly'. I don’t know what that means except that Neretzes was of course the emperor who died in battle some years back. Maybe you can find out its true value." />
+    <string id="VLD5416o" text="Companion Hired" />
+    <string id="VlXOgIX6" text="Andou com os batedores" />
+    <string id="VN4ctHIU" text="Comprar suprimentos" />
+    <string id="vxDVCK3n" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again." />
+    <string id="w0CUaEU7" text="You haven't cut my throat yet, which was a wise move. I'm sure I can find a way to be worth more to you alive than dead." />
+    <string id="w2TEQq26" text="Você estava sempre atento a outras pessoas, bom em adivinhar suas motivações. Você estudou como os indivíduos eram influenciados e experimentou o que aprendeu dos adultos com seus amigos." />
+    <string id="W49eUmpT" text="Você pode desmontar do cavalo com ({CROUCH_KEY}), ou ({ACTION_KEY}) enquanto olha para o cavalo." />
+    <string id="wajioDaK" text="I stayed with Neretzes until we were forced back to our camp by the Sturgian infantry, and then fought on the battlements. Eventually we could hold them no longer. I did not see what happened to Neretzes or to our banner. Arenicos got us out of there, and got us home. I did not respect Arenicos before, but that day I saw he was worthy to be Emperor." />
+    <string id="WbHfGCbd" text="You survived a siege" />
+    <string id="WchH8bS2" text="Seus familiares eram membros de nível médio de um clã battaniano, que cultivavam sua própria terra. Seu pai lutou com o Kern, o corpo principal dos guerreiros de seu povo, juntando-se aos comandos gritantes pelos quais os battanianos eram famosos." />
+    <string id="WDylM3dx" text="He set off on the road just a few hours before the raiders come through here. Well, he's not really a worldly type, just the kind of fellow who'd stumble into a trap and let himself be captured. We're worried about him." />
+    <string id="wErSpkjy" text="I'm still working on it." />
+    <string id="weS3DJKA" text="Weakened by war, the ruler of the {FACTION} offers to make peace with {PLAYER_FACTION}." />
+    <string id="wfbtS71d" text="You led a caravan" />
+    <string id="WIUbM9Hc" text="Escolha uma arma para começar o treinamento." />
+    <string id="WN1tHPnB" text="We should have gone on to seize all the western empire. If Derthert had any manhood, we’d have done so. But his heart was never in the war. He believed he’d broken his oath to the Empire by helping the Sturgians, and it gnawed at him. He’d have made a fine lackey. Instead he’s our king." />
+    <string id="wO19nK2y" text="You have weakened the Empire." />
+    <string id="WOKNhaG2" text="Sua família era guardiã das tradições sagradas dos Khuzaitas, canalizando os espíritos dos ancestrais. Eles cuidavam da sabedoria doentia e dispensada, resolvendo disputas e fornecendo conselhos práticos." />
+    <string id="WTjAYUoD" text="Find another piece of the banner for Istiana" />
+    <string id="WUa1gnkS" text="Look, right before the battle, our high king, Aeril, disappears. And his adopted son Caladog becomes king. That sets tongues to wagging, you know? But let me tell you - old Aeril could never in his life won such a victory as did Caladog, that day." />
+    <string id="wvHvnEog" text="Find the hideout that Arzagos told you about and get the next banner piece." />
+    <string id="wWLnZ6G4" text="Since your hunt for your kin is fruitless, how about you clear off and save your own lives? Either that or I force you to lick up all the blood you've spilled here with your tongues. Or... You and I could settle this, one on one.[ib:confident]" />
+    <string id="WysXGbM6" text="Right click to defend" />
+    <string id="WYvnWcXQ" text="Como todas as crianças da aldeia, você ajudou nos campos. Você também..." />
+    <string id="WyZ2UtFF" text="Sua família não gostava da autoridade dos boiardos. Eles viviam nas profundezas da floresta, cortando e queimando acampamentos em que eles se instalavam por um ano ou dois antes de seguir em frente. Eles caçavam e aprisionavam raposas, lebres, arminhos e outros animais." />
+    <string id="x1HTX5hq" text="Você salvou sua vila de uma enchente" />
+    <string id="X2tfHsXV" text="You should join the kingdom that you wish to support by talking to the leader." />
+    <string id="x3KpQouT" text="When they were all good and addled like frightened sheep, running this way and that, the rest of us warriors descended upon them with our falxes and swords. I cleaved this way and that. I took 12 heads, and mine was far from the greatest catch. Ah, the grandchildren tire of me telling this story..." />
+    <string id="X3pDRmjK" text="A victory, won by my father, claimed by Raganvad." />
+    <string id="X9Vmjipn" text="Ataque por baixo." />
+    <string id="XdDQdSsW" text="I could feel the signs of heat-stroke creeping up and I told them but they just flogged me more... If your group hadn't come along... Maybe I have a way to thank you properly." />
+    <string id="XEuhxpCX" text="Now, the Empire uses tricks and traps in war. No Battanian fears to meet an imperial soldier, man-to-man, but we thought it would be a good laugh to use their tricks against them. So we laid an ambush, on both sides of a wooded pass, and wouldn’t you know? They marched right into it." />
+    <string id="Xg6jhfPt" text="Nimr returned, in well-deserved glory. A daughter of the Bani Qild took an interest in him, and they had a secret affair, as the youth sometimes do. As heroes do. But Nimr’s acts wounded the Qildi’s pride. They kidnapped him, slew him and hung him in a cage in their market. We will forgive the Empire and the Vlandians. The Qildis… better not ask me that." />
+    <string id="xGdoz9Pn" text="Well, we last saw him a few days ago. He was carrying some sort of chest, which he was very mysterious about. He was on some sort of 'quest', he said, though wouldn't tell us more." />
+    <string id="XgFU1pCx" text="Você nasceu em uma família de ..." />
+    <string id="XIIISsIg" text="There was never a prouder moment for the Bani Sarran." />
+    <string id="xjduipCO" text="Of course our glorious armies have been defeated many times, but I guess those commanders and emperors were not 'true sons.' Clever little legend. A child could see through it, if she tried, but of course people never try to see through the noble lies that bind us together. Thank Heaven for that." />
+    <string id="xjk4hNXD" text="I did not fight in the battle. I stood on a hill telling my commanders where to go and who to attack. And we did rather well, I think you’ve heard. Still, we took losses - heavy losses, and gained little. And for this the barons blamed me, even though it was their idea to fight. I learned that day that a king should always lead, never follow. But it was a bitter lesson." />
+    <string id="xKXcqRJI" text="Você investiu algum dinheiro em terras" />
+    <string id="xL3WGYsw" text="Collected Pieces" />
+    <string id="XlSHcfsP" text="This option will end the tutorial!" />
+    <string id="xnT03Yv0" text="I'm listening." />
+    <string id="xORjDTal" text="You invested some money in a workshop" />
+    <string id="Xqba1Obq" text="Nômades" />
+    <string id="Xrz05hYE" text="Dê um passeio" />
+    <string id="XtC0hXhr" text="Support {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}" />
+    <string id="xVFupnFu" text="Você atingiu com êxito todos os alvos em ({TIME_SCORE}) segundos." />
+    <string id="XWL3XcIq" text="{FACTION} Defeated" />
+    <string id="y3fn2vWY" text="Recrutar tropas" />
+    <string id="Y3UcaX74" text="Sua aptidão com números" />
+    <string id="y6j1bJTH" text="Você foi aprendiz do ferreiro local. Você aprendeu a aquecer e forjar metais, martelando por horas seguidas até que seus músculos doerem." />
+    <string id="Y6OJHdMH" text="I am a busy man, but there is always time to talk about the blessed battle of Pendraic." />
+    <string id="Y6SqyQwn" text="Meet with {HERO.NAME}" />
+    <string id="y84UnOQX" text="Assemble the Dragon Banner" />
+    <string id="Y94H6XnK" text="Accept" />
+    <string id="ya8eMCpj" text="Unify the Empire" />
+    <string id="YAWCkOYa" text="As trilhas parecem novas, e eu já vi fumaça no horizonte. Eles não podem se mover muito rapidamente se ainda estiverem saqueando e invadindo. Não, tenho certeza se conseguiremos resgatar as crianças... ou morreremos tentando." />
+    <string id="YBqmnNGv" text="\n+{VALUE} gold" />
+    <string id="YcnK0Thk" text="Caçadores" />
+    <string id="YEeb0B1V" text="Eu sou {HEADMAN.FIRSTNAME}, chefe desta vila. O que te traz aqui?" />
+    <string id="yflx4LNc" text="Vença o treinador!" />
+    <string id="yjOanW6x" text="I wonder which imperial faction I should support.." />
+    <string id="YKzuGc54" text="Você era grande e outras crianças quiseram ter você por perto, em qualquer briga com crianças de uma aldeia vizinha. Você empurrou um arado e jogou um machado como um adulto." />
+    <string id="yNcBDr9j" text="You talked with {IMPERIAL_MENTOR.LINK}. Now, you may want to talk with {ANTI_IMPERIAL_MENTOR.LINK} and take {?ANTI_IMPERIAL_MENTOR.GENDER}her{?}his{\?} opinions too. {?ANTI_IMPERIAL_MENTOR.GENDER}She{?}He{\?} is currently in {SETTLEMENT_LINK}." />
+    <string id="Yqm0Dics" text="Você tratou bem as pessoas" />
+    <string id="yQtzabbe" text="Close" />
+    <string id="yRAl8YRL" text="Yes. I was a junior officer on Neretzes’ staff. People say much about the battle that betrays a lack of understanding, of Neretzes and of the circumstances he faced." />
+    <string id="yRFSzSDZ" text="Sua família morava em uma vila, mas não possuíam suas próprias terras. Em vez disso, seu pai complementava empregos remunerados com longas viagens pela floresta, caçando, sempre atento aos guardas de caça do senhor." />
+    <string id="yS7PvrTD" text="OK" />
+    <string id="ysRVZiA6" text="As you explore Calradia, you can learn more about your artifact and its importance by asking any lord or lady about the Empire's recent history." />
+    <string id="yub8ZSFP" text="You talked with {ANTI_IMPERIAL_MENTOR.LINK}. Now, you may want to talk with {IMPERIAL_MENTOR.LINK} and take {?IMPERIAL_MENTOR.GENDER}her{?}his{\?} opinions too. {?IMPERIAL_MENTOR.GENDER}She{?}He{\?} is currently in {SETTLEMENT_LINK}." />
+    <string id="yYhX6JQC" text="Seu pai se juntou a uma das muitas companhias mercenárias de Vlandia, compostas por homens que tinham tanto gosto pela guerra a serviço de seu senhor que eles nunca se deram muito bem com a paz. Seus besteiros eram muito valorizados em Calradia. Sua mãe era seguidora de um acampamento, levando você depois de campanhas sangrentas." />
+    <string id="z3VamNrX" text="Send in your troops." />
+    <string id="z8LQn2Uh" text="You have arrived at the hideout." />
+    <string id="ZAGR6PYc" text="When a sudden blaze broke out in a back alley, your neighbors needed quick-thinking leadership and you provided it. You organized a bucket line to the nearest well, putting the fire out before any homes were lost." />
+    <string id="Zb1uFhsY" text="Vá até o treinador." />
+    <string id="ZDEcFXIm" text="You may have one piece of the banner, but it’s of little use in itself. You’ll have to find the other parts. But once you can bring together the pieces, you’ll have something of tremendous value.[sp:/Sounds/VO/mainquest/mntemp_q01_03.ogg]" />
+    <string id="zEoHYEUS" text="Espere aqui por algum tempo" />
+    <string id="ZhZ7MCeh" text="Well. I recognize defeat when I see it. If I'm going to be your captive, let me introduce myself. I'm Radagos." />
+    <string id="ZiwIZZ1y" text="Right then, to the business of bringing down this cursed Empire. As I see it, you have two options..." />
+    <string id="ZkSthA9d" text="They say Olek the Old had pried the dragon banner out of the Emperor’s dead hands. But then Prince Raganvad, who had not so much as drawn his sword in the battle, claimed it as a trophy. Olek, who was covered in his enemies’ blood, laughed at Raganvad and told him to go find his own toy to play with. Raganvad struck him, so Olek broke the banner staff over his knee and threw it in his prince’s faith." />
+    <string id="ZKynvffv" text="Sua família possuía sua própria oficina em uma cidade, produzindo mercadorias a partir de matérias-primas trazidas do campo. Seu pai desempenhou um papel ativo, embora pequeno, no conselho da cidade e também serviu na milícia" />
+    <string id="zLRlmitp" text="Investigate 'Neretzes's Folly'" />
+    <string id="Zq9qXcCk" text="You are defeated by the {RADAGOS.NAME}' Party, but your brother saved you. It doesn't look like they're going anywhere, though, so you should attack again once you're ready. You must have at least {NUMBER} members in your party. If you don't, go back to {QUEST_VILLAGE} and recruit some more troops." />
+    <string id="ZqOvtLBM" text="In the confusion of the attack you shouted that someone had found treasure in the back room. You then made your way out of the undefended entrance with your brother." />
+    <string id="zrpqSWSh" text="Agricultores livres" />
+    <string id="zRZd90cZ" text="I was there. I was just a young squire then." />
+    <string id="zsC2t5Hb" text="trained with the hearth guard" />
+    <string id="zTYd6Qai" text="The Empire has been united under the {FACTION}!" />
+    <string id="zxMOqlhs" text="Attack" />
+    <string id="Zyn5FrTR" text="We’ll keep that in mind." />
+    <string id="Zz6IvIH9" text="The Empire had left us alone for a while, and Neretzes was offering silver for men, so I thought, “Why not? Let them help the Empire.” Ah, I should have known. The best course with wars is to have as little to do with them as you possibly can." />
+  </strings>
+</base>
