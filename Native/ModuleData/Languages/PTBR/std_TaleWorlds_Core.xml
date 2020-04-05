@@ -1,78 +1,78 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Português Brasileiro" />
   </tags>
   <strings>
-    <string id="2wclahIJ" text="Throwing" />
-    <string id="4kvKQuXM" text="Hides" />
-    <string id="5rj7xQE4" text="Bow" />
-    <string id="7HvtT8bm" text="Wrought Iron" />
-    <string id="81YLbLok" text="Experience with the darker side of human life. You can tell when a guard wants a bribe, you know how to intimidate someone, and have a good sense of what you can and can't get away with." />
-    <string id="8w0aaDbn" text="Iron" />
-    <string id="97EmbcHQ" text="The ability to inspire. You can fill individuals with confidence and stir up enthusiasm and courage in larger groups." />
-    <string id="abxndmIh" text="Social" />
-    <string id="Aj3zqQq4" text="Not available" />
-    <string id="azjMBa86" text="Fine Steel" />
+    <string id="2wclahIJ" text="Jogando" />
+    <string id="4kvKQuXM" text="Esconde" />
+    <string id="5rj7xQE4" text="Arco" />
+    <string id="7HvtT8bm" text="Ferro Forjado" />
+    <string id="81YLbLok" text="Experiência com o lado sombrio da vida. Você sabe quando um guarda quer suborno, sabe como intimidar alguém e tem uma boa noção de quando pode ou não se safar." />
+    <string id="8w0aaDbn" text="Ferro" />
+    <string id="97EmbcHQ" text="A capacidade de inspirar. Você pode encher as pessoas de confiança e despertar entusiasmo e coragem em grandes grupos." />
+    <string id="abxndmIh" text="Sociabilidade" />
+    <string id="Aj3zqQq4" text="Não disponível" />
+    <string id="azjMBa86" text="Aço Fino" />
     <string id="Bn7IsMpu" text="INT" />
-    <string id="bVD9j0wI" text="Physical fitness, speed and balance." />
-    <string id="d2ApwXJr" text="END" />
-    <string id="EGeY1gfs" text="Charm" />
-    <string id="eoLbkhsY" text="Mastery of fighting with two-handed weapons of average length such as bigger axes and swords." />
-    <string id="ExjMoUiT" text="Hardwood" />
-    <string id="FLf5J3su" text="Familarity with bows and physical conditioning to shoot with them effectively." />
-    <string id="FQOFDrAu" text="Your judgment of how troops will perform in contact. This allows you to make a good prediction of when an unorthodox tactic will work, and when it won't." />
-    <string id="GmcgoiGy" text="Trade" />
-    <string id="gOpodlt1" text="Crude Iron" />
-    <string id="H9Zamrao" text="The ability to control a horse, to keep your balance when it moves suddenly or unexpectedly, as well as general knowledge of horses, including their care and breeding." />
-    <string id="haax8kMa" text="Polearm" />
-    <string id="haV3nLYA" text="Knowledge of operating and maintaining crossbows." />
-    <string id="hbaMnpVR" text="Knowledge of how to make things that can withstand powerful forces without collapsing. Useful for building both structures and the devices that knock them down." />
-    <string id="HsLfmEmb" text="Leadership" />
+    <string id="bVD9j0wI" text="Aptidão física, velocidade e equilíbrio." />
+    <string id="d2ApwXJr" text="FIM" />
+    <string id="EGeY1gfs" text="Charme" />
+    <string id="eoLbkhsY" text="Maestria no combate com armas de duas mãos de comprimento médio, como machados e espadas maiores." />
+    <string id="ExjMoUiT" text="Madeira de lei" />
+    <string id="FLf5J3su" text="Familiaridade com arcos e condicionamento físico para atirar com eles de forma eficaz." />
+    <string id="FQOFDrAu" text="Seu julgamento de como as tropas se sairão em combate. Isso permite que você possa prever se uma tática não-ortodoxa funcionará ou não." />
+    <string id="GmcgoiGy" text="Comércio" />
+    <string id="gOpodlt1" text="Ferro Bruto" />
+    <string id="H9Zamrao" text="A capacidade de controlar um cavalo, de manter o equilíbrio quando ele se move repentinamente ou inesperadamente, bem como o conhecimento geral sobre os cavalos, incluindo seus cuidados e criação." />
+    <string id="haax8kMa" text="Armas de Haste" />
+    <string id="haV3nLYA" text="Conhecimento da operação e da manutenção de bestas." />
+    <string id="hbaMnpVR" text="Conhecimento de como fazer coisas que podem suportar grandes forças sem desmoronar. Útil tanto para construir essas estruturas como dispositivos que as derrubam." />
+    <string id="HsLfmEmb" text="Liderança" />
     <string id="HuXafdmR" text="CTR" />
-    <string id="igg5sEh3" text="Knowledge of how to staunch bleeding, to set broken bones, to remove embedded weapons and clean wounds to prevent infection, and to apply poultices to relieve pain and soothe inflammation." />
-    <string id="iKmXX7i3" text="Mastery of the spear, lance, staff and other polearms, both one-handed and two-handed." />
-    <string id="iQadPYNe" text="Charcoal" />
-    <string id="Itv3fgJm" text="Grain" />
-    <string id="jJ9sLOLb" text="Vigor represents the ability to move with speed and force. It's important for melee combat." />
-    <string id="JKH59XNp" text="Medicine" />
-    <string id="JZM1mQvb" text="Cunning" />
-    <string id="K8rCOQUZ" text="Endurance is the ability to perform taxing physical activity for a long time." />
-    <string id="kmBxaJZd" text="Knowledge of how to scan the wilderness for life. You can follow tracks, spot movement in the undergrowth, and spot an enemy across the valley from a flash of light on spearpoints or a dustcloud." />
-    <string id="kvOavzcs" text="Endurance" />
-    <string id="Kw6BkhIf" text="Iron Ore" />
-    <string id="LJ6Krlbr" text="Scouting" />
-    <string id="LmwhFv5p" text="Meat" />
-    <string id="lsJMCkZy" text="Familiarity with the most common goods in the marketplace and their prices, as well as the ability to spot defective goods or tell if you've been shortchanged in quantity" />
-    <string id="m8o51fc7" text="Tactics" />
-    <string id="n3cjEB0X" text="Tools" />
-    <string id="NwTpATW5" text="Mastery of throwing projectiles accurately and with power." />
-    <string id="p9i3zRm9" text="Riding" />
-    <string id="PCZ23wvW" text="Engineering" />
+    <string id="igg5sEh3" text="Conhecimento de como estancar sangramentos, reconhecer ossos quebrados, remover armas e projéteis presos e limpar feridas a modo de evitar infecções, além de aplicar cataplasmas para aliviar a dor e diminuir a inflamação." />
+    <string id="iKmXX7i3" text="Maestria com lanças, arpões, bastões e outras armas de haste, sendo estas de uma ou duas mãos." />
+    <string id="iQadPYNe" text="Carvão" />
+    <string id="Itv3fgJm" text="Grãos" />
+    <string id="jJ9sLOLb" text="O vigor representa a capacidade de se mover com velocidade e força. É importante para combate corpo a corpo." />
+    <string id="JKH59XNp" text="Medicina" />
+    <string id="JZM1mQvb" text="Destreza" />
+    <string id="K8rCOQUZ" text="Resistência é a capacidade de realizar atividades físicas desgastantes por um longo período de tempo." />
+    <string id="kmBxaJZd" text="Conhecimento de como encontrar vida no selvagem. Você consegue seguir trilhas, reconhecer movimentação na vegetação rasteira e detectar inimigos através de um vale a partir de um flash de luz na ponta de uma lança ou em uma nuvem de poeira." />
+    <string id="kvOavzcs" text="Resistência" />
+    <string id="Kw6BkhIf" text="Minério de Ferro" />
+    <string id="LJ6Krlbr" text="Patrulhando" />
+    <string id="LmwhFv5p" text="Carne" />
+    <string id="lsJMCkZy" text="Familiaridade com os produtos mais comuns do mercado e seus preços, tal como a capacidade de detectar produtos defeituosos ou saber se você foi passado pra trás" />
+    <string id="m8o51fc7" text="Táticas" />
+    <string id="n3cjEB0X" text="Ferramentas" />
+    <string id="NwTpATW5" text="Maestria no arremesso de projéteis com força e precisão." />
+    <string id="p9i3zRm9" text="Equitação" />
+    <string id="PCZ23wvW" text="Engenharia" />
     <string id="PHoxdReD" text="SOC" />
-    <string id="PiHpR4QL" text="One Handed" />
-    <string id="qwEJSBaH" text="Your knowledge of what makes a settlement prosper. This helps you to manage an estate or administer a town." />
-    <string id="skZS2UlW" text="Athletics" />
-    <string id="sOrJoxiC" text="Intelligence" />
-    <string id="t78atYqH" text="Two Handed" />
-    <string id="TeUtEGV0" text="Intelligence represents aptitude for reading and theoretical learning." />
+    <string id="PiHpR4QL" text="De uma mão" />
+    <string id="qwEJSBaH" text="Seu conhecimento sobre o que faz um assentamento prosperar. Isso o ajuda gerenciar uma propriedade ou administrar uma cidade." />
+    <string id="skZS2UlW" text="Atletismo" />
+    <string id="sOrJoxiC" text="Inteligência" />
+    <string id="t78atYqH" text="De duas mãos" />
+    <string id="TeUtEGV0" text="Inteligência representa a aptidão para leitura e o aprendizado teórico." />
     <string id="tH6Ooj0P" text="CNG" />
-    <string id="TTWL7RLe" text="Crossbow" />
-    <string id="UfuLKuaI" text="Steel" />
-    <string id="Uz1HHeKg" text="Crafted Random Weapon" />
-    <string id="uZhHh7pm" text="Crafted {CURR_TEMPLATE_NAME}" />
-    <string id="V0ZMJ0PX" text="Roguery" />
-    <string id="VajIVjkc" text="The ability to make a person like and trust you. You can make a good guess at people's motivations and the kinds of arguments to which they'll respond." />
+    <string id="TTWL7RLe" text="Besta" />
+    <string id="UfuLKuaI" text="Aço" />
+    <string id="Uz1HHeKg" text="Criou uma Arma Aleatória" />
+    <string id="uZhHh7pm" text="Criou {CURR_TEMPLATE_NAME}" />
+    <string id="V0ZMJ0PX" text="Malandrice" />
+    <string id="VajIVjkc" text="A capacidade de fazer uma pessoa gostar e confiar em você. Você consegue adivinhar as motivações das pessoas e os tipos de argumentos aos quais elas responderão." />
     <string id="Ve8xoa3i" text="VIG" />
-    <string id="vLVAfcta" text="Thamaskene Steel" />
-    <string id="vx0OCvaj" text="Control represents the ability to use strength without sacrificing precision. It's necessary for using ranged weapons." />
-    <string id="XMDTt96y" text="Social is the ability to understand people's motivations and to sway them." />
-    <string id="xs0MpdCM" text="Smithing" />
-    <string id="xWbkjccP" text="The knowledge of how to forge metal, match handle to blade, turn poles, sew scales, and other skills useful in the assembly of weapons and armor" />
-    <string id="yEkSSqIm" text="Mastery of fighting with one-handed weapons either with a shield or without." />
-    <string id="Ymw2PKBo" text="Steward" />
-    <string id="YO5LUfiO" text="Cunning is the ability to predict what other people will do, and to outwit their plans." />
+    <string id="vLVAfcta" text="Aço Damasco" />
+    <string id="vx0OCvaj" text="O controle representa a capacidade de usar força sem influenciar a precisão. É necessário para usar armas de longo alcance." />
+    <string id="XMDTt96y" text="A sociabilidade é a capacidade de entender as motivações das pessoas e como influenciá-las." />
+    <string id="xs0MpdCM" text="Metalurgia" />
+    <string id="xWbkjccP" text="O conhecimento de como forjar metais, criar cabos compatíveis com lâminas, moldar metais, confeccionar malhas entre outras habilidades úteis na criação de armas e armaduras" />
+    <string id="yEkSSqIm" text="Maestria na luta com armas de uma mão, com ou sem escudo." />
+    <string id="Ymw2PKBo" text="Administração" />
+    <string id="YO5LUfiO" text="Astúcia é a capacidade de prever o que as outras pessoas farão e estar um passo a frente." />
     <string id="YWkdD7Ki" text="Vigor" />
-    <string id="zfRqM4mr" text="Control" />
+    <string id="zfRqM4mr" text="Controle" />
   </strings>
 </base>
