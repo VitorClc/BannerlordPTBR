@@ -1,46 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Português Brasileiro" />
   </tags>
   <strings>
-    <string id="3FdaOPBi" text="Charred {ITEMNAME}" />
-    <string id="3JaHZA3Y" text="Large Bag of {ITEMNAME}" />
-    <string id="4nprSS1a" text="Flexible {ITEMNAME}" />
-    <string id="582QaBL6" text="Light {ITEMNAME}" />
-    <string id="5yVgXqQr" text="Worn {ITEMNAME}" />
-    <string id="6MVH4JVN" text="Starched {ITEMNAME}" />
-    <string id="85WO1MKG" text="Well made {ITEMNAME}" />
-    <string id="8Pd6fLoy" text="Splintered {ITEMNAME}" />
-    <string id="8Tal0XIj" text="Masterwork {ITEMNAME}" />
-    <string id="ajjSonIo" text="Tough {ITEMNAME}" />
-    <string id="ajLElAyS" text="Weighted {ITEMNAME}" />
-    <string id="B14fVQHG" text="Stained {ITEMNAME}" />
-    <string id="BA9c7gPb" text="Thick {ITEMNAME}" />
-    <string id="bAdxUq7s" text="Quality {ITEMNAME}" />
-    <string id="br0N6SSH" text="Cracked {ITEMNAME}" />
-    <string id="bWhJwHA1" text="Loose {ITEMNAME}" />
-    <string id="bXYcvUcR" text="Tattered {ITEMNAME}" />
-    <string id="CAP1BUjL" text="Hardened {ITEMNAME}" />
-    <string id="CCKZv6GM" text="Chipped {ITEMNAME}" />
-    <string id="dXjbxaKQ" text="Decaying {ITEMNAME}" />
-    <string id="eb4miTUB" text="Bent {ITEMNAME}" />
-    <string id="fdgcpipH" text="Balanced {ITEMNAME}" />
-    <string id="geUpgQI5" text="Lame {ITEMNAME}" />
-    <string id="H30eaZdf" text="Heavy {ITEMNAME}" />
-    <string id="l7QEpVwU" text="Rusty {ITEMNAME}" />
-    <string id="O0EcDd0a" text="Frayed {ITEMNAME}" />
-    <string id="Pbb94NdW" text="Ripped {ITEMNAME}" />
-    <string id="PobRGG9S" text="Dented {ITEMNAME}" />
-    <string id="Q5HVyNWJ" text="Tailored {ITEMNAME}" />
-    <string id="rpUIBrOu" text="Agile {ITEMNAME}" />
-    <string id="RwBOv1Mz" text="Crude {ITEMNAME}" />
-    <string id="SbNbqhOX" text="Torn {ITEMNAME}" />
-    <string id="TePk4BSJ" text="Battered {ITEMNAME}" />
-    <string id="w3jn7Ahz" text="Lordly {ITEMNAME}" />
-    <string id="WbaIorOh" text="Tuned {ITEMNAME}" />
-    <string id="WK5y3PyJ" text="Fast {ITEMNAME}" />
-    <string id="xeb1b5PQ" text="Fine {ITEMNAME}" />
-    <string id="zbs4c6sG" text="Reinforced {ITEMNAME}" />
+    <string id="3FdaOPBi" text="{ITEMNAME} chamuscado" />
+    <string id="3JaHZA3Y" text="Saco grande de {ITEMNAME}" />
+    <string id="4nprSS1a" text="{ITEMNAME} flexível" />
+    <string id="582QaBL6" text="{ITEMNAME} leve" />
+    <string id="5yVgXqQr" text="{ITEMNAME} usado" />
+    <string id="6MVH4JVN" text="{ITEMNAME} engomado" />
+    <string id="85WO1MKG" text="{ITEMNAME} bem feito" />
+    <string id="8Pd6fLoy" text="{ITEMNAME} estilhaçado" />
+    <string id="8Tal0XIj" text="{ITEMNAME} obra-prima" />
+    <string id="ajjSonIo" text="{ITEMNAME} duro" />
+    <string id="ajLElAyS" text="{ITEMNAME} pesado" />
+    <string id="B14fVQHG" text="{ITEMNAME} sujo" />
+    <string id="BA9c7gPb" text="{ITEMNAME} grosso" />
+    <string id="bAdxUq7s" text="{ITEMNAME} de qualidade" />
+    <string id="br0N6SSH" text="{ITEMNAME} rachado" />
+    <string id="bWhJwHA1" text="{ITEMNAME} frouxo" />
+    <string id="bXYcvUcR" text="{ITEMNAME} esfarrapado" />
+    <string id="CAP1BUjL" text="{ITEMNAME} endurecido" />
+    <string id="CCKZv6GM" text="{ITEMNAME} lascado" />
+    <string id="dXjbxaKQ" text="{ITEMNAME} apodrecido" />
+    <string id="eb4miTUB" text="{ITEMNAME} dobrado" />
+    <string id="fdgcpipH" text="{ITEMNAME} balanceado" />
+    <string id="geUpgQI5" text="{ITEMNAME} coxo" />
+    <string id="H30eaZdf" text="{ITEMNAME} pesado" />
+    <string id="l7QEpVwU" text="{ITEMNAME} enferrujado" />
+    <string id="O0EcDd0a" text="{ITEMNAME} desgastado" />
+    <string id="Pbb94NdW" text="{ITEMNAME} aberto" />
+    <string id="PobRGG9S" text="{ITEMNAME} amolgado" />
+    <string id="Q5HVyNWJ" text="{ITEMNAME} sob medida" />
+    <string id="rpUIBrOu" text="{ITEMNAME} ágil" />
+    <string id="RwBOv1Mz" text="{ITEMNAME} bruto" />
+    <string id="SbNbqhOX" text="{ITEMNAME} rasgado" />
+    <string id="TePk4BSJ" text="{ITEMNAME} bem desgastado" />
+    <string id="w3jn7Ahz" text="{ITEMNAME} magnífico" />
+    <string id="WbaIorOh" text="{ITEMNAME} ajustado" />
+    <string id="WK5y3PyJ" text="{ITEMNAME} rápido" />
+    <string id="xeb1b5PQ" text="{ITEMNAME} bom" />
+    <string id="zbs4c6sG" text="{ITEMNAME} reforçado" />
   </strings>
 </base>
