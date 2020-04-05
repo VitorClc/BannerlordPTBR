@@ -27,7 +27,7 @@
     <string id="7qySRF2T" text="Ping" />
     <string id="8nJFaJio" text="Senha" />
     <string id="AaAcmalE" text="Você foi convidado a entrar em um grupo por" />
-    <string id="aB4Md0if" text="Há jogadores" />
+    <string id="aB4Md0if" text="Tem jogadores" />
     <string id="ahiBhAqU" text="Armadura" />
     <string id="aO3avkK9" text="Matchmaking Desativado" />
     <string id="ApD0xQXT" text="{STR1}: {STR2}" />
@@ -63,7 +63,7 @@
     <string id="ffjTMejn" text="Estatísticas" />
     <string id="fM9E7frB" text="Performance" />
     <string id="FRSGOfUJ" text="Ativar inclusão do registro de combate" />
-    <string id="ftoSCQ0x" text="Duração" />
+    <string id="ftoSCQ0x" text="Comprimento" />
     <string id="g1lgiwn1" text="Não Conectado" />
     <string id="G6hYIR5k" text="Tom de voz:" />
     <string id="gcl2duJH" text="Redefinir seu emblema" />
@@ -79,13 +79,13 @@
     <string id="Hp2wp3et" text="Aceitar (F1)" />
     <string id="HXxNfncd" text="Fim da Batalha" />
     <string id="i0OEsfLt" text="Batalha personalizada desativada" />
-    <string id="IBEJPlEj" text="Casa" />
+    <string id="IBEJPlEj" text="Início" />
     <string id="Ie9I2Bha" text="Dano de Estocada" />
     <string id="iKtIhlbo" text="Rodadas" />
     <string id="IlQnJsUp" text="Bandeiras Capturadas:" />
     <string id="iLUiaRsj" text="Seu" />
     <string id="iNqucBor" text="Entrando" />
-    <string id="J0vjDOFO" text="Velocidade da Estocada." />
+    <string id="J0vjDOFO" text="Velocidade da Estocada" />
     <string id="Jd44GGJW" text="Equipe {TEAM} teve vantagem no tempo limite" />
     <string id="JKCounzE" text="Vídeo" />
     <string id="JPimShCw" text="Tipo de Jogo" />
