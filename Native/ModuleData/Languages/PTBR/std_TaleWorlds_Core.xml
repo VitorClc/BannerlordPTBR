@@ -26,7 +26,7 @@
     <string id="gOpodlt1" text="Ferro Bruto" />
     <string id="H9Zamrao" text="A capacidade de controlar um cavalo, de manter o equilíbrio quando ele se move repentinamente ou inesperadamente, bem como o conhecimento geral sobre os cavalos, incluindo seus cuidados e criação." />
     <string id="haax8kMa" text="Armas de Haste" />
-    <string id="haV3nLYA" text="Conhecimento da operação e da manutenção de bestas." />
+    <string id="haV3nLYA" text="Conhecimento sobre a operação e manutenção de bestas." />
     <string id="hbaMnpVR" text="Conhecimento de como fazer coisas que podem suportar grandes forças sem desmoronar. Útil tanto para construir essas estruturas como dispositivos que as derrubam." />
     <string id="HsLfmEmb" text="Liderança" />
     <string id="HuXafdmR" text="CTR" />
@@ -34,17 +34,17 @@
     <string id="iKmXX7i3" text="Maestria com lanças, arpões, bastões e outras armas de haste, sendo estas de uma ou duas mãos." />
     <string id="iQadPYNe" text="Carvão" />
     <string id="Itv3fgJm" text="Grãos" />
-    <string id="jJ9sLOLb" text="O vigor representa a capacidade de se mover com velocidade e força. É importante para combate corpo a corpo." />
+    <string id="jJ9sLOLb" text="O vigor representa a capacidade de se mover com velocidade e força. Importante para combate corpo a corpo." />
     <string id="JKH59XNp" text="Medicina" />
-    <string id="JZM1mQvb" text="Destreza" />
+    <string id="JZM1mQvb" text="Astúcia" />
     <string id="K8rCOQUZ" text="Resistência é a capacidade de realizar atividades físicas desgastantes por um longo período de tempo." />
     <string id="kmBxaJZd" text="Conhecimento de como encontrar vida no selvagem. Você consegue seguir trilhas, reconhecer movimentação na vegetação rasteira e detectar inimigos através de um vale a partir de um flash de luz na ponta de uma lança ou em uma nuvem de poeira." />
     <string id="kvOavzcs" text="Resistência" />
     <string id="Kw6BkhIf" text="Minério de Ferro" />
-    <string id="LJ6Krlbr" text="Patrulhando" />
+    <string id="LJ6Krlbr" text="Observação" />
     <string id="LmwhFv5p" text="Carne" />
-    <string id="lsJMCkZy" text="Familiaridade com os produtos mais comuns do mercado e seus preços, tal como a capacidade de detectar produtos defeituosos ou saber se você foi passado pra trás" />
-    <string id="m8o51fc7" text="Táticas" />
+    <string id="lsJMCkZy" text="Familiaridade com os produtos mais comuns do mercado e seus preços, tal como a capacidade de detectar produtos defeituosos ou saber se você foi passado pra trás." />
+    <string id="m8o51fc7" text="Estratégia" />
     <string id="n3cjEB0X" text="Ferramentas" />
     <string id="NwTpATW5" text="Maestria no arremesso de projéteis com força e precisão." />
     <string id="p9i3zRm9" text="Equitação" />
@@ -61,14 +61,14 @@
     <string id="UfuLKuaI" text="Aço" />
     <string id="Uz1HHeKg" text="Criou uma Arma Aleatória" />
     <string id="uZhHh7pm" text="Criou {CURR_TEMPLATE_NAME}" />
-    <string id="V0ZMJ0PX" text="Malandrice" />
+    <string id="V0ZMJ0PX" text="Ardilosidade" />
     <string id="VajIVjkc" text="A capacidade de fazer uma pessoa gostar e confiar em você. Você consegue adivinhar as motivações das pessoas e os tipos de argumentos aos quais elas responderão." />
     <string id="Ve8xoa3i" text="VIG" />
     <string id="vLVAfcta" text="Aço Damasco" />
-    <string id="vx0OCvaj" text="O controle representa a capacidade de usar força sem influenciar a precisão. É necessário para usar armas de longo alcance." />
+    <string id="vx0OCvaj" text="O controle representa a capacidade de usar força sem influenciar a precisão. Necessário para o uso armas de longo alcance." />
     <string id="XMDTt96y" text="A sociabilidade é a capacidade de entender as motivações das pessoas e como influenciá-las." />
     <string id="xs0MpdCM" text="Metalurgia" />
-    <string id="xWbkjccP" text="O conhecimento de como forjar metais, criar cabos compatíveis com lâminas, moldar metais, confeccionar malhas entre outras habilidades úteis na criação de armas e armaduras" />
+    <string id="xWbkjccP" text="O conhecimento de como forjar metais, criar cabos compatíveis com lâminas, moldar metais, confeccionar malhas entre outras habilidades úteis na criação de armas e armaduras." />
     <string id="yEkSSqIm" text="Maestria na luta com armas de uma mão, com ou sem escudo." />
     <string id="Ymw2PKBo" text="Administração" />
     <string id="YO5LUfiO" text="Astúcia é a capacidade de prever o que as outras pessoas farão e estar um passo a frente." />
